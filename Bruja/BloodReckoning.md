@@ -2,7 +2,7 @@
 
 ## One-Screen Summary
 - **Win condition**: stack **Reckoning**, cash out with `Channel Wrath`/`Veer Anger`, and stabilize with `Healing Drops` or Grace triggers.[1][2][3][4]
-- **Difficulty**: high – you juggle HP thresholds, blood costs, and grace timers, but payoff turns erase entire waves.
+- **Difficulty**: High (13/15) – HP/blood juggling is demanding, yet payoff turns erase waves even late in the 12-floor run.
 - **Best in**: frontline or midline when the party can feed block; Bruja thrives on taking controlled chip damage.
 - **Key stats**: Each Reckoning stack translates directly into damage; `Adjourn` converts HP loss to +150% Reckoning with Grace, enabling 80+ damage nukes by Act II.[5]
 

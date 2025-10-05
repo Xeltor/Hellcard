@@ -18,7 +18,7 @@
 4. **Draft Priorities**: pickups & skips with quick reasoning; separate by rarity when relevant.
 5. **Map & Economy Routing**: Armory vs Hideout priorities, event usage, gem/mana management.
 6. **Artifacts & Relics**: ranked list with synergy notes and anti-picks.
-7. **Sequencing & Combat Micro**: turn order, positioning, AI quirks for agents, etc.
+7. **Sequencing & Combat Micro**: turn order, positioning, etc.
 8. **Sample Deck Shell / Flex Slots**: 8–12 card template, labelled must-haves vs flex.
 9. **Co-op / Boss / Floor Notes**: targeted adjustments; keep concise tables when data heavy.
 10. **Common Pitfalls**: mistakes that implode the build (draw bricking, over-spending gems, etc.).
@@ -27,12 +27,25 @@
 ## Content Rules
 - Name cards, artifacts, enemies, and map nodes in backticks (e.g., `Shakedown`) for consistency.
 - When stating numbers (damage, mana, thresholds), cite a verifiable source or include the patch note.
-- Highlight AI limitations when covering agents so players know what sequencing they must force.
 - Call out when a strategy is experimental or reliant on RNG so readers can gauge risk.
 - Use footnotes for external references; link the smallest page that verifies the claim.
 - Validate that every build can execute as written in the live game; no speculative combos without proven runs or patch confirmations.
 - Reach for the local datasets in `data/` (`cards.json`, `artifacts.json`, `effects.json`) before opening the wiki; only hit online sources when the offline snapshot lacks what you need.
 - Keep `README.md` as a browsable index—update it whenever guides or datasets move so newcomers can navigate the repo quickly.
+- When updating the index, group builds by class and list them from lowest to highest difficulty, including the difficulty label beside each entry.
+- Any time you pull fresh details from the web, capture them in a local dataset (or refresh the existing JSON) before moving on so the next edit can stay offline.
+- Tag every guide with a difficulty label derived from this rubric (always considering how reliably the build clears a full 12-floor campaign):
+  * **Sequencing Complexity** – 1 (simple rotation), 2 (occasional tricky order), 3 (constant precise sequencing).
+  * **Core Card/Artifact Dependency** – 1 (commons/early finds), 2 (mix of rarities), 3 (needs specific rares or relics).
+  * **Survivability Management** – 1 (self-sustaining), 2 (needs some planning), 3 (frequent HP risk or tight block numbers).
+  * **Coordination Requirements** – 1 (solo friendly), 2 (some ally help), 3 (relies heavily on teammates).
+  * **Routing Pressure** – 1 (flexible map), 2 (prefers certain nodes), 3 (strict upgrade/event path).
+Sum the scores:
+  * 5–7 → **Difficulty: Low**
+  * 8–11 → **Difficulty: Medium**
+  * 12–15 → **Difficulty: High**
+Record the label in the guide’s one-screen summary so readers see it immediately.
+When scoring, judge each axis by how it holds up over the full 12-floor run (early stability, midgame scaling, and late-game survivability).
 
 ## Data Collection & Verification
 - **Pre-write checklist**: confirm the current game build, note any balance hotfixes in the last 7 days, and scan official Discord announcements.
@@ -42,7 +55,7 @@
 ## Source Library (keep updating)
 - [1] **Official Patch Notes (Steam News Hub)** – primary source for card/stat changes, event tweaks, bug fixes.
 - [2] **Hellcard Wiki** – card text, artifact effects, location rules, unlock paths. Cross-check images when describing UI.
-- [3] **Hellcard Discord #guides / #patch-notes** – early info on hotfixes, AI quirks, datamined drop rates.
+- [3] **Hellcard Discord #guides / #patch-notes** – early info on hotfixes, datamined drop rates.
 - [4] **"If You Are Struggling" Steam guide** – curated card evaluations, encounter notes, and economy tips collected from high-win players.
 - [5] **Rogue tips mega-thread (Steam Discussions)** – long-form community testing on gem economy, artifact synergy, and map routes.
 - [6] **Steam Community guides index** – discovery hub for newly published tech; great for spotting emerging strategies to verify.

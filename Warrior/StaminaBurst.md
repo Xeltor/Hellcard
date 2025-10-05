@@ -2,7 +2,7 @@
 
 ## One-Screen Summary
 - **Win condition**: bank Stamina, trigger `Stamina Burst`, and double-tap high-impact attacks like `Whirlwind` and `Groundbreaker` while staying at full block.[1][2][6][7][8][9]
-- **Difficulty**: medium-high – sequencing is tight, but the deck becomes unstoppable once you rotate bursts every other turn.
+- **Difficulty**: High (12/15) – sequencing is tight, yet the burst loop can carry all 12 floors once mastered.
 - **Best in**: solo or co-op frontline; excels at elite/boss control thanks to repeated taunts and AOE.
 - **Key stats**: `Second Wind` refunds +2 mana and 5 Stamina, making every Armory-upgraded attack a burst candidate; two stacked bursts in a row can clear Act II waves without spending gems.[1][7]
 
