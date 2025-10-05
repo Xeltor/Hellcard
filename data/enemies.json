@@ -1,0 +1,361 @@
+{
+  "Normal Enemies": [
+    {
+      "name": "Battering Goat",
+      "summary": "Battering Goat is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Health": "10",
+        "Attack": "2",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Chaotic Goat",
+      "summary": "Chaotic Goat is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Healing Blood - Gives Healing Blood card to its killer upon death.",
+        "Health": "30",
+        "Attack": "10",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Corrupted Priest",
+      "summary": "Corrupted Priest is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Rotten - Returns 2 damage when non-lethally hit.",
+        "Health": "15",
+        "Attack": "5",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Fire Imp",
+      "summary": "Fire Imp is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Explode - Deals damage equal to its strength to all heroes when killed in near range.",
+        "Health": "4",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Flying Wild Hog",
+      "summary": "Flying Wild Hog is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": [
+          "Regenerate - heals itself at the beginning of a monsters' turn.",
+          "Rotten - returns 1 damage when non-lethally hit."
+        ],
+        "Health": "2",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Glutton",
+      "summary": "Glutton is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Enrage - Adds +2 to its strength every time it receives damage.",
+        "Health": "20",
+        "Attack": "3",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Goatman",
+      "summary": "Goatman is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Health": "10",
+        "Attack": "6",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Loony Ghost",
+      "summary": "Loony Ghost is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Cursed - Adds a negative influence to its killer upon death.",
+        "Health": "6",
+        "Attack": "6",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Phantom Beast",
+      "summary": "Phantom Beast is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Health": "20",
+        "Attack": "5",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Puffy Corpse",
+      "summary": "Puffy Corpse is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Special": "Rotten - Returns 1 damage when non-lethally hit.",
+        "Health": "10",
+        "Attack": "3",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Skeletomancer",
+      "summary": "Skeletomancer is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Health": "15",
+        "Attack": "5",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Skeleton Archer",
+      "summary": "Skeleton Archer is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Health": "3",
+        "Attack": "3",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Skeleton Warrior",
+      "summary": "Skeleton Warrior is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Health": "5",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Slithering Warrior",
+      "summary": "Slithering Warrior is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Health": "7",
+        "Attack": "10",
+        "Block": "5"
+      }
+    },
+    {
+      "name": "Succubus",
+      "summary": "Succubus is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Special": "Vampiric - Gains strength equal to unblocked damage dealt.",
+        "Health": "15",
+        "Attack": "3",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Templar",
+      "summary": "Templar is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Health": "15",
+        "Attack": "3",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Tiny Spectre",
+      "summary": "Tiny Spectre is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Health": "6",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Zombie Corpse",
+      "summary": "Zombie Corpse is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Rotten - returns 1 damage when non-lethally hit.",
+        "Health": "3",
+        "Attack": "1",
+        "Block": "0"
+      }
+    }
+  ],
+  "Special Enemies": [
+    {
+      "name": "Demonic Mage",
+      "summary": "Demonic Mage is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Cursed - Adds a negative influence to its killer upon death.",
+        "Health": "30",
+        "Attack": "7",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Demonic Rogue",
+      "summary": "Demonic Rogue is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Special": "Cursed - Adds a negative influence to its killer upon death.",
+        "Health": "35",
+        "Attack": "10",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Demonic Warrior",
+      "summary": "Demonic Warrior is an enemy in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Cursed - Adds a negative influence to its killer upon death.",
+        "Health": "40",
+        "Attack": "5",
+        "Block": "0"
+      }
+    }
+  ],
+  "Minibosses": [
+    {
+      "name": "Devourer",
+      "summary": "Devourer is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Devour - Eats wounded monsters with 10 HP or less. Add 5 HP and 5 strength for each.",
+        "Health": "25",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Elder Goatchanter",
+      "summary": "Elder Goatchanter is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Health": "25",
+        "Attack": "5",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Golem",
+      "summary": "Skull Spook is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Stone Skin - All monsters' block stays for the next turn.",
+        "Health": "50",
+        "Attack": "15",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Mirage Mage",
+      "summary": "Mirage Mage is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Magic Barrier - Play other cards before Attacks cards.",
+        "Health": "50",
+        "Attack": "5",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Skelserker",
+      "summary": "Skelserker is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Health": "50",
+        "Attack": "1",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Skull Spook",
+      "summary": "Skull Spook is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Ranged - attacks only from far range",
+        "Special": "Magic Disruption - Skill (blue) cards cost 1 mana point more.",
+        "Health": "50/50",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Slithering Magus",
+      "summary": "Slithering Magus is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Demonic Revenge - Every time a hero kills a monster, a random card from their hand is discarded.",
+        "Health": "25",
+        "Attack": "20",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Spectral Whopper",
+      "summary": "Spectral Whopper is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": "Arcane Shield - never gets more than 4 damge in a single hit. Doesn't apply to influences doing direct damage.",
+        "Health": "25",
+        "Attack": "4",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Whopper",
+      "summary": "Whopper is a Miniboss in Hellcard.",
+      "stats": {
+        "Attack type": "Melee - attacks only from near range",
+        "Special": [
+          "Whopper's Rib - Spawns a new",
+          "Skeleton Warrior",
+          "every time it receives damage."
+        ],
+        "Health": "30/30",
+        "Block": "0"
+      }
+    }
+  ],
+  "Bosses": [
+    {
+      "name": "Antipope",
+      "summary": "Antipope is a Boss in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Sinister Revenge - Players together can play only a limited number of cards in each turn.",
+        "Health": "75",
+        "Attack": "20",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Archdemon",
+      "summary": "Archdemon is a Boss in Hellcard.",
+      "stats": {
+        "Attack type": "Magic - can attack from both ranges",
+        "Special": "Round Robin - No one can play a card twice in a row as long as 2 or more players are alive.",
+        "Health": "150",
+        "Attack": "15",
+        "Block": "0"
+      }
+    },
+    {
+      "name": "Cook",
+      "summary": "Wiki for the game Hellcard.",
+      "stats": {}
+    }
+  ]
+}

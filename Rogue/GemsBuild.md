@@ -2,7 +2,7 @@
 
 ## One-Screen Summary
 - **Win condition**: stack gemstones, then convert them into 2×-scaling damage via `Shakedown`, `Trickle Down`, and `Stonks` while chaining mana-refund stuns.[1][2][3][4][5]
-- **Difficulty**: Medium (9/15) – sequencing matters, but the deck stabilises for the full 12-floor climb once you hold 6+ gems.
+- **Difficulty**: High (12/15) – sequencing and rare pickups make the 12-floor clear demanding, but stabilises once you hold 6+ gems.
 - **Best in**: solo or co-op when the team can funnel gems and protect the Rogue’s lane.
 - **Key stats**: every 4 gems unlocks guaranteed AOE stuns + +1 mana from `Bling`/`Payback`; 10+ gems lets a single `Trickle Down` wipe most Act II boards.
 

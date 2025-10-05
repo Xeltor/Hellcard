@@ -2,7 +2,7 @@
 
 ## One-Screen Summary
 - **Win condition**: freeze priority enemies, then double bolt damage with `Snowball`/`Subzero` while recycling mana through `Harpoon Bolt` kills.[1][2][3][4][5][6]
-- **Difficulty**: Medium (10/15) – sequencing around freeze matters, but securing `Snowball` keeps the 12-floor run stable.
+- **Difficulty**: High (12/15) – relies on key legendaries and precise sequencing to secure the full 12-floor clear.
 - **Best in**: mid/back row in solo or co-op; shines at clearing wide boards while feeding allies mana and cards.
 - **Key stats**: a frozen target turns `Harpoon Bolt` into a 1-mana payoff that refunds mana + party draw; `Fractal Whip` drops to 0-cost after two kills, letting you chain bursts.
 

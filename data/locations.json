@@ -1,0 +1,47 @@
+{
+  "Armory": [
+    "Heal other players/companions.",
+    "Get bonus block for the next battle.",
+    "Upgrade a card."
+  ],
+  "Camp": [
+    "Heal yourself for 50%.",
+    "Gain 3 max hp.",
+    "Heal yourself for 20%."
+  ],
+  "Corpses": [
+    "Get new Cards."
+  ],
+  "Hideout": [
+    "Reset companions' location selection changes (single player only); Gift gems to other players (multiplayer only).",
+    "Remove a card.",
+    "Select a card to start future battles with."
+  ],
+  "Ruins": [
+    "Find gems.",
+    "Get more mana for the next battle.",
+    "Find an Artifact."
+  ],
+  "Sage": [
+    "Remove Cards."
+  ],
+  "Smithy": [
+    "Upgrade Cards."
+  ],
+  "Vault": [
+    "Get new Artifacts."
+  ],
+  "Library": [
+    "Trade Artifacts.",
+    "Get more mana for the next battle.",
+    "Get one more card per turn for the next battle."
+  ],
+  "Workshop": [
+    "Trade Cards.",
+    "Upgrade a Cards (a contraption if Tinker).",
+    "Get a random influence for the next battle.",
+    "Remove any card in exchange for +2/+4/+6 Max HP depending on rarity.",
+    "For the next battle, If you don't have enough mana, use 2 HP instead for each missing Mana.",
+    "Lose 5 HP, Gain 5 Block each turn next battle."
+  ]
+}

@@ -33,6 +33,7 @@
 - Reach for the local datasets in `data/` (`cards.json`, `artifacts.json`, `effects.json`) before opening the wiki; only hit online sources when the offline snapshot lacks what you need.
 - Keep `README.md` as a browsable index—update it whenever guides or datasets move so newcomers can navigate the repo quickly.
 - When updating the index, group builds by class and list them from lowest to highest difficulty, including the difficulty label beside each entry.
+- Each new build must highlight a distinct gameplan—different damage engine, resource economy, or control approach—so we never publish near-duplicates of guides already in the repo.
 - Any time you pull fresh details from the web, capture them in a local dataset (or refresh the existing JSON) before moving on so the next edit can stay offline.
 - Tag every guide with a difficulty label derived from this rubric (always considering how reliably the build clears a full 12-floor campaign):
   * **Sequencing Complexity** – 1 (simple rotation), 2 (occasional tricky order), 3 (constant precise sequencing).

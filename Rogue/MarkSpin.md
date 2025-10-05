@@ -1,7 +1,7 @@
 # Rogue Mark Spin Support (Updated: October 2024 live build)
 
 ## One-Screen Summary
-- **Difficulty**: Medium (8/15) – mark-and-stun rotation stays simple, but soloing all 12 floors demands consistent mark uptime and careful gem management.
+- **Difficulty**: Low (6/15) – relaxed mark-and-stun rotation that comfortably carries through the 12-floor climb with minimal setup.
 - **Win condition**: spread marks with `Death Mark`/`Loaded Die`, stun priority targets via `Payback`/`*Bonk*`, and finish them using cheap daggers while allies capitalize on the +1 damage bonus.[1][2][3][4]
 - **Best in**: mid/back slots in solo or co-op; the deck protects the team and chips down elites reliably.
 - **Key stats**: a marked enemy takes +1 damage from all attacks; with two marks up, ally hits gain +2 each, multiplying team DPS quickly.
