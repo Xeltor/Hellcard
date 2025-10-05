@@ -28,7 +28,8 @@
 - Name cards, artifacts, enemies, and map nodes in backticks (e.g., `Shakedown`) for consistency.
 - When stating numbers (damage, mana, thresholds), cite a verifiable source or include the patch note.
 - Call out when a strategy is experimental or reliant on RNG so readers can gauge risk.
-- Use footnotes for external references; link the smallest page that verifies the claim.
+- Use reference-style Markdown links so each backticked game term stays clickable (e.g., [`Feedback Loop`][card-feedback-loop]); define slugs as `card-` + the hyphenated lowercase name and collect them after the closing `---`.
+- For non-wiki citations (patch notes, dev logs, community spreadsheets), use descriptive slugs with a `ref-` prefix (e.g., [`Patch 1.0.12 notes`][ref-patch-1-0-12]) and keep them in the same reference block.
 - Validate that every build can execute as written in the live game; no speculative combos without proven runs or patch confirmations.
 - Reach for the local datasets in `data/` (`cards.json`, `artifacts.json`, `effects.json`) before opening the wiki; only hit online sources when the offline snapshot lacks what you need.
 - Keep `README.md` as a browsable index—update it whenever guides or datasets move so newcomers can navigate the repo quickly.
@@ -66,7 +67,7 @@ When scoring, judge each axis by how it holds up over the full 12-floor run (ear
 2. Gather fresh data: card pool, artifact synergies, agent behaviour if applicable.
 3. Outline using the canonical layout; fill notes under each heading before writing prose.
 4. Draft sections in priority order (Core Loop → Draft → Map → Artifacts → Micro → Pitfalls).
-5. Insert inline citations as you go; don’t wait until the end.
+5. Insert reference-style citations as you go; capture the slug immediately so you never leave orphan links.
 6. Run a self QA pass: spell check, confirm tone, ensure bullets stay concise.
 7. Update the changelog and commit with a meaningful message referencing the patch.
 
@@ -80,7 +81,7 @@ When scoring, judge each axis by how it holds up over the full 12-floor run (ear
 - Tables: prefer Markdown tables for encounter timelines or reward breakpoints; keep ≤5 columns.
 - Numbers: write `10 mana` not `10 Mana`; pluralize gems/mana normally.
 - Terminology: `Hideout`, `Armory`, `Plan`, `Gem`, `Mana`, `Stun`, `Strain` follow in-game capitalization.
-- Footnotes: numeric order, placed at the end of the file; reuse numbers only when referencing the exact same source.
+- Reference links: no numeric footnotes—reuse descriptive slugs (e.g., `card-feedback-loop`, `ref-patch-1-0-12`) and list them once beneath the final separator.
 
 ## Change Tracking Template
 ```
