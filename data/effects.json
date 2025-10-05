@@ -1,0 +1,96 @@
+{
+  "Positive Effects": [
+    {
+      "Effect": "Block",
+      "Description": "Block is the most widespread Effect that can be applied to both players and enemies. Block takes damage before the combatants HP is affected. Some Cards are able to ignore the Block of enemies to damage their HP directly."
+    },
+    {
+      "Effect": "Focus",
+      "Description": "Changes card parameter (eg. mana/damage) with each draw. Lasts until the end of the current battle."
+    },
+    {
+      "Effect": "Parameter Change",
+      "Description": ""
+    },
+    {
+      "Effect": "Add",
+      "Description": "Add card to your deck for this battle."
+    },
+    {
+      "Effect": "Take",
+      "Description": "Take a card from the discard or draw pile and place it in your hand."
+    },
+    {
+      "Effect": "Mark",
+      "Description": "All attacks on the marked monster deal +1 damage. Damage bonus can be stacked by playing mark on an already marked monster. Only 1 monster can be marked at a time."
+    },
+    {
+      "Effect": "Stamina",
+      "Description": "Stamina is an Effect that is exclusive to the Warriorclass that can be increased or decreased by using various cards. After getting 10 Stamina, the 10 Stamina is consumed and a Stamina Burst is applied."
+    },
+    {
+      "Effect": "Stamina Burst",
+      "Description": "A Stamina Burst is a powerful Effect that can be applied by getting enough Stamina or by applying it directly with the Cardio Card. Stamina Burst causes the next card the affected plays to cost 0 mana and be played twice. If Round Robin is in effect and there are 2 or more heroes standing, the second instance of the Card will not be played."
+    },
+    {
+      "Effect": "Stun",
+      "Description": "Target changes intent to Stun (and doesn't do anything this turn)."
+    },
+    {
+      "Effect": "Bomb",
+      "Description": "Bombs are placed in sections. There can only be one bomb per section. Playing a bomb card adds an Ignite card to the draw pile. Playing an Ignite card lets you choose which bomb you detonate."
+    },
+    {
+      "Effect": "Freeze",
+      "Description": "Frozen monsters can't move or attack. Freeze ends when monster tries to move or attack (the action is unsuccessful, but breaks the ice)."
+    }
+  ],
+  "Negative Effects": [
+    {
+      "Effect": "Exhaust",
+      "Description": "Card goes into the exhaust pile and cannot be used again in this battle."
+    },
+    {
+      "Effect": "Strain",
+      "Description": "Cost increases by 1 mana with each use. Lasts until the end of the current battle."
+    },
+    {
+      "Effect": "Disarm",
+      "Description": "Disarm prevents the player from gaining Block directly from their own cards. Block can still be obtained from other players applying it to the affected."
+    },
+    {
+      "Effect": "Unstackable",
+      "Description": "Influence card which cannot be stacked. Playing another copy of such a card won't increase the effect. | weak = You deal less damage this turn."
+    },
+    {
+      "Effect": "Tired",
+      "Description": "Lose 1 mana at the beginning of the next turn."
+    },
+    {
+      "Effect": "Shaky Hands",
+      "Description": "All Arrows deal -1 damage in far range for duration of the next turn."
+    },
+    {
+      "Effect": "Burnout",
+      "Description": ""
+    },
+    {
+      "Effect": "Weak",
+      "Description": "You deal less damage this turn."
+    },
+    {
+      "Effect": "Round Robin",
+      "Description": ""
+    },
+    {
+      "Effect": "Sinister Revenge",
+      "Description": ""
+    }
+  ],
+  "Other Effects": [
+    {
+      "Effect": "Move",
+      "Description": "Change monster position to another section."
+    }
+  ]
+}

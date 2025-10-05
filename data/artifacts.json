@@ -1,0 +1,655 @@
+{
+  "Warrior": [
+    {
+      "Name": "Talking Scabbard",
+      "Gem Cost": "1",
+      "Effect": "Transform one Sword Slash into Heavy Sword."
+    },
+    {
+      "Name": "Unagi",
+      "Gem Cost": "1",
+      "Effect": "Start each battle with 5 Stamina points."
+    },
+    {
+      "Name": "Tankard",
+      "Gem Cost": "1",
+      "Effect": "Add Camaraderie and Fool's Guard cards to deck."
+    },
+    {
+      "Name": "Sun",
+      "Gem Cost": "2",
+      "Effect": "Get 1 additional mana at the start of your next turn if you got damaged this turn."
+    },
+    {
+      "Name": "Broom",
+      "Gem Cost": "1",
+      "Effect": "Add Swords Akimbo to deck."
+    },
+    {
+      "Name": "Foreign Coin",
+      "Gem Cost": "2",
+      "Effect": "Replace the starting deck with Chip And Shatter 1x, Fulcrum Ji 3x, Ji Poke 3x, and Sword Slash 1x"
+    },
+    {
+      "Name": "Beetroot",
+      "Gem Cost": "2",
+      "Effect": "Gain +7 max HP"
+    },
+    {
+      "Name": "Unripe Banana",
+      "Gem Cost": "2",
+      "Effect": "Gain 3 block for every mana point left when ending your turn."
+    },
+    {
+      "Name": "Veteran Pin",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Pick up 4 random starters, 4 random common cards and 1 random rare card instead."
+    },
+    {
+      "Name": "Chocolate Box",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Draft 3 attack cards, 3 skill cards, 1 influence card and 1 random rare card instead."
+    }
+  ],
+  "Rogue": [
+    {
+      "Name": "Brass Cog",
+      "Gem Cost": "1",
+      "Effect": "Transform one Sharp Arrow into Rogue Tactics."
+    },
+    {
+      "Name": "Salt",
+      "Gem Cost": "1",
+      "Effect": "Gain 1 mana every 5th summoned card played."
+    },
+    {
+      "Name": "Horse's Head",
+      "Gem Cost": "1",
+      "Effect": "Add Death Mark and Osoto Gari cards to deck."
+    },
+    {
+      "Name": "Key",
+      "Gem Cost": "1",
+      "Effect": "Get 1 additional mana on the first turn."
+    },
+    {
+      "Name": "Box",
+      "Gem Cost": "1",
+      "Effect": "Add Improvise to deck."
+    },
+    {
+      "Name": "Crossbow",
+      "Gem Cost": "1",
+      "Effect": "Exchange 2 Sharp Arrows for Quality Quarrels."
+    },
+    {
+      "Name": "Grabber",
+      "Gem Cost": "2",
+      "Effect": "Add 1 random Bomb to your hand at the start of your turn."
+    },
+    {
+      "Name": "Golden Onion",
+      "Gem Cost": "2",
+      "Effect": "After every battle one random Location of yours is lowered by 1 gemstone."
+    },
+    {
+      "Name": "Veteran Pin",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Pick up 4 random starters, 4 random common cards and 1 random rare card instead."
+    },
+    {
+      "Name": "Chocolate Box",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Draft 3 attack cards, 3 skill cards, 1 influence card and 1 random rare card instead."
+    }
+  ],
+  "Mage": [
+    {
+      "Name": "Prism",
+      "Gem Cost": "1",
+      "Effect": "Transform one Magic Bolt into a Comet rune."
+    },
+    {
+      "Name": "Little Helper",
+      "Gem Cost": "1",
+      "Effect": "Draw 1 additional card when you draw a Status (black) card."
+    },
+    {
+      "Name": "Hat",
+      "Gem Cost": "1",
+      "Effect": "Add Fractal Whip to deck."
+    },
+    {
+      "Name": "Crimson Vial",
+      "Gem Cost": "1",
+      "Effect": "Heal 1 HP at the start of your next turn if you got damaged this turn."
+    },
+    {
+      "Name": "Cockade",
+      "Gem Cost": "1",
+      "Effect": "Add Cold Arm and Brutal Thaw to deck."
+    },
+    {
+      "Name": "Library Card",
+      "Gem Cost": "2",
+      "Effect": "Replace the starting deck with Ethereal Shield 2x, Magic Bolt 2x, Cocoa Mug 1x, Page Rip 1x and Draft 2 Book cards."
+    },
+    {
+      "Name": "Acorn",
+      "Gem Cost": "2",
+      "Effect": "Gain 10 block after using Bolts 3 times in a turn."
+    },
+    {
+      "Name": "Spacious Sleeve",
+      "Gem Cost": "2",
+      "Effect": "Add 1 random Scroll to your hand at the start of your turn."
+    },
+    {
+      "Name": "Veteran Pin",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Pick up 4 random starters, 4 random common cards and 1 random rare card instead."
+    },
+    {
+      "Name": "Chocolate Box",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Draft 3 attack cards, 3 skill cards, 1 influence card and 1 random rare card instead."
+    }
+  ],
+  "Tinkerer": [
+    {
+      "Name": "Party Hat",
+      "Gem Cost": "1",
+      "Effect": "Transform one Screw Shot into Piñata and one Gear Up into Sugar Rush."
+    },
+    {
+      "Name": "Transmission Belt",
+      "Gem Cost": "1",
+      "Effect": "Every time you play a Contraption you already have active, draw a card."
+    },
+    {
+      "Name": "Meter",
+      "Gem Cost": "1",
+      "Effect": "Add Jump Start and Flare to deck."
+    },
+    {
+      "Name": "Battery Charger",
+      "Gem Cost": "1",
+      "Effect": "At the start of your turn, Draw +1 card if you have any cores."
+    },
+    {
+      "Name": "Work Glove",
+      "Gem Cost": "1",
+      "Effect": "Transform one Screw Shot into Boom Bird and one Prototype into Fire Sprinkler."
+    },
+    {
+      "Name": "Scout Badge",
+      "Gem Cost": "2",
+      "Effect": "Replace the starting deck with the following. Prototype 1x, Science! 1x, Gear Up 2x, Screw Shot 2x, Draft 2 Trap cards and 1 Trap-dependent Attack card."
+    },
+    {
+      "Name": "Screw Making Mold",
+      "Gem Cost": "2",
+      "Effect": "At the start of your turn, gain between 1-2 Screw(s)."
+    },
+    {
+      "Name": "Jack",
+      "Gem Cost": "2",
+      "Effect": "If you play no cards in a turn, at the end of that turn, gain 3 Screws and 1 Core."
+    },
+    {
+      "Name": "Veteran Pin",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Pick up 4 random starters, 4 random common cards and 1 random rare card instead."
+    },
+    {
+      "Name": "Chocolate Box",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Draft 3 attack cards, 3 skill cards, 1 influence card and 1 random rare card instead."
+    }
+  ],
+  "Bruja": [
+    {
+      "Name": "Nazar Eye",
+      "Gem Cost": "1",
+      "Effect": "When you end your turn with at least 3 mana and 5 cards activate Grace."
+    },
+    {
+      "Name": "Suturing Needle",
+      "Gem Cost": "1",
+      "Effect": "Replace the starting deck with Bag of Bones 1x, Ward Off 2x Leeches 3x, and Boils 2x."
+    },
+    {
+      "Name": "Chirograph",
+      "Gem Cost": "1",
+      "Effect": "Replace the starting deck with Appease 2x, Adjourn 1x,Anoint 2x, Channel Wrath 1x and Hex 2x."
+    },
+    {
+      "Name": "Sangrethyst",
+      "Gem Cost": "1",
+      "Effect": "At the beginning of each battle lose all gemstone above 3. gain 3 Max HP for each gemstone lost this way."
+    },
+    {
+      "Name": "Donor Card",
+      "Gem Cost": "1",
+      "Effect": "When your HP is below 50%, you can use 2 Location options in each Location."
+    },
+    {
+      "Name": "Finger Guillotine",
+      "Gem Cost": "2",
+      "Effect": "Gain 1 Max HP after each battle you survive."
+    },
+    {
+      "Name": "Red Beads",
+      "Gem Cost": "2",
+      "Effect": "Every turn, once you lose 4 or more HP during your turn, other Heroes gain 1 HP each."
+    },
+    {
+      "Name": "Dreamcatcher",
+      "Gem Cost": "2",
+      "Effect": "At the start of each turn, gain block equal to the HP you lost the previous turn."
+    },
+    {
+      "Name": "Veteran Pin",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Pick up 4 random starters, 4 random common cards and 1 random rare card instead."
+    },
+    {
+      "Name": "Chocolate Box",
+      "Gem Cost": "3",
+      "Effect": "Discard whole deck. Draft 3 attack cards, 3 skill cards, 1 influence card and 1 random rare card instead."
+    }
+  ],
+  "Common Artifacts": [
+    {
+      "Name": "Vicious Hatchet",
+      "Gem Cost": "",
+      "Effect": "Upon pickup get 2 random Attack (red) cards."
+    },
+    {
+      "Name": "Tavern Sign",
+      "Gem Cost": "",
+      "Effect": "Gain 1 block for every monster in your slice with an attack intent at the beginning of your turn."
+    },
+    {
+      "Name": "Trowel",
+      "Gem Cost": "",
+      "Effect": "Gain 2 block when you exhaust a card."
+    },
+    {
+      "Name": "Toy Compass",
+      "Gem Cost": "",
+      "Effect": "Get 1 mana each time you play 5 Skill (blue) cards in a single turn."
+    },
+    {
+      "Name": "Torn Button",
+      "Gem Cost": "",
+      "Effect": "Gain +8 max HP."
+    },
+    {
+      "Name": "Tiny Bamboo",
+      "Gem Cost": "",
+      "Effect": "On future Card Reward screens you have 1 additional card to choose from."
+    },
+    {
+      "Name": "Tilted Cairn",
+      "Gem Cost": "",
+      "Effect": "Gain 5 block at the end of your turn if you haven't used any Attack (red) cards this turn."
+    },
+    {
+      "Name": "Thumb Lancet",
+      "Gem Cost": "",
+      "Effect": "If you don't have enough gemstones to take the selected action, you can do it by losing 5 HP for each missing gemstone (as long as it won't kill you)."
+    },
+    {
+      "Name": "Silver Mirror",
+      "Gem Cost": "",
+      "Effect": "Every time someone gives you block, they get half that."
+    },
+    {
+      "Name": "Silver Spoon",
+      "Gem Cost": "",
+      "Effect": "Get 3 gemstones."
+    },
+    {
+      "Name": "Nekomata",
+      "Gem Cost": "",
+      "Effect": "Every 10th attack is played twice."
+    },
+    {
+      "Name": "Sharp Throne",
+      "Gem Cost": "",
+      "Effect": "Gain 5 block after using 3 swords in one turn."
+    },
+    {
+      "Name": "Ripe Tomato",
+      "Gem Cost": "",
+      "Effect": "Start each battle with 10 block."
+    },
+    {
+      "Name": "Paperclip",
+      "Gem Cost": "",
+      "Effect": "Gain 1 mana when your deck is shuffled for the first time during each battle."
+    },
+    {
+      "Name": "Quartz Lens",
+      "Gem Cost": "",
+      "Effect": "Your attacks deal +1 damage in the Near Range and -1 damage in the far range (but no less than 1)."
+    },
+    {
+      "Name": "Porcelain Skull",
+      "Gem Cost": "",
+      "Effect": "Gain 5 block after using 5 Arrows in one turn."
+    },
+    {
+      "Name": "Loot Crate",
+      "Gem Cost": "",
+      "Effect": "Draw 1 additional card and get 1 mana after you kill your first monster in each battle."
+    },
+    {
+      "Name": "Kielbasa",
+      "Gem Cost": "",
+      "Effect": "One random card from your starting hand has cost reduced to 0."
+    },
+    {
+      "Name": "Homicidal Organ",
+      "Gem Cost": "",
+      "Effect": "Your attacks deal +1 damage if you have no Skill (blue) cards in your hand."
+    },
+    {
+      "Name": "Flambeau",
+      "Gem Cost": "",
+      "Effect": "Every 3rd exhausted card heals you 1 HP."
+    },
+    {
+      "Name": "Evergreen Leaf",
+      "Gem Cost": "",
+      "Effect": "Get healed 1 HP every time another hero is healed during the battle."
+    },
+    {
+      "Name": "Crane",
+      "Gem Cost": "",
+      "Effect": "Give 3 Block to all heroes if you haven't used any Attack cards this turn."
+    },
+    {
+      "Name": "Bottle of Miasma",
+      "Gem Cost": "",
+      "Effect": "Deals 20 damage randomly distributed among monsters at the beginning of the battle."
+    },
+    {
+      "Name": "Bloody Grail",
+      "Gem Cost": "",
+      "Effect": "A random player gets a Healing Blood at the beginning of the battle."
+    },
+    {
+      "Name": "Bandaid",
+      "Gem Cost": "",
+      "Effect": "Heal 3 HP after each battle you survive."
+    }
+  ],
+  "Rare Artifacts": [
+    {
+      "Name": "Best Pal",
+      "Gem Cost": "",
+      "Effect": "Deal +2 damage when you have no incoming damage."
+    },
+    {
+      "Name": "Clam",
+      "Gem Cost": "",
+      "Effect": "You get 1 gemstone after picking a Card Reward. You can no longer skip Card Rewards."
+    },
+    {
+      "Name": "Dice",
+      "Gem Cost": "",
+      "Effect": "Number of mana points is randomized each turn (between 1 and 8)."
+    },
+    {
+      "Name": "Duck Collar",
+      "Gem Cost": "",
+      "Effect": "At the start of your turn add 1 mark to the marked monster."
+    },
+    {
+      "Name": "Explosive Eyeball",
+      "Gem Cost": "",
+      "Effect": "When you die, deal 20 damage to all monsters in hear range and 10 in far range."
+    },
+    {
+      "Name": "First Blood",
+      "Gem Cost": "",
+      "Effect": "Heal yourself for 5HP after killing your first monster in battle."
+    },
+    {
+      "Name": "Friendly Toad",
+      "Gem Cost": "",
+      "Effect": "Reduces the card reward options after completed floors by one, but also heals the holder by 10 HP if they do not take a new card."
+    },
+    {
+      "Name": "Glass Caltrops",
+      "Gem Cost": "",
+      "Effect": "After monster's turn, distribute all of your block as damage to random monsters."
+    },
+    {
+      "Name": "Golden Ticket",
+      "Gem Cost": "",
+      "Effect": "Your prices in future locations YOU ADD are lowered to 1 gemstone"
+    },
+    {
+      "Name": "Iron Snowflake",
+      "Gem Cost": "",
+      "Effect": "Start your next turn with block equal to double the amount of damage you take this turn."
+    },
+    {
+      "Name": "Jar of Pickles",
+      "Gem Cost": "",
+      "Effect": "Get 1 mana point when you deal at least 15 damage total. Once per turn."
+    },
+    {
+      "Name": "Lump of Coal",
+      "Gem Cost": "",
+      "Effect": "Increase rarity of one of the cards when picking a Card Reward"
+    },
+    {
+      "Name": "Memento",
+      "Gem Cost": "",
+      "Effect": "Draw an additional card (+1) at the beginning of your turn"
+    },
+    {
+      "Name": "Moka Pot",
+      "Gem Cost": "",
+      "Effect": "You can use 2 options in each future location"
+    },
+    {
+      "Name": "Red Cap",
+      "Gem Cost": "",
+      "Effect": "Heal 15 HP at the beginning of a boss battle"
+    },
+    {
+      "Name": "Spring",
+      "Gem Cost": "",
+      "Effect": "Gain 1 additional mana if the sum of incoming damage at the beginning of your turn is higher than 15."
+    },
+    {
+      "Name": "Star",
+      "Gem Cost": "",
+      "Effect": "You get 1 additional mana when fighting bosses."
+    },
+    {
+      "Name": "Tiny Anchor",
+      "Gem Cost": "",
+      "Effect": "Heals the holder to 66% of their max HP if they survive a battle where they ended with 33% or less of max HP."
+    },
+    {
+      "Name": "Tsantsa",
+      "Gem Cost": "",
+      "Effect": "If the holder takes more than 5 damage from a single attack, the Tsantsa reflects half of it back to the attacker."
+    },
+    {
+      "Name": "Wooden Bowl",
+      "Gem Cost": "",
+      "Effect": "Reduces the holder's Gems to 1 at the beginning of each battle and heals the holder by 10 HP for each Gem that was removed."
+    },
+    {
+      "Name": "Hourglass",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Feather",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Dusty Sandals",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Brick",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Torque Wrench",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Spectacles",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Stamp",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Sharpener",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Runic Board",
+      "Gem Cost": "",
+      "Effect": ""
+    }
+  ],
+  "Legendary Artifacts": [
+    {
+      "Name": "Burrito",
+      "Gem Cost": "",
+      "Effect": "Allows the holder to use HP to play additional cards once they are out of mana points."
+    },
+    {
+      "Name": "Can of Beans",
+      "Gem Cost": "",
+      "Effect": "Randomizes the prices in future reward locations for the holder between zero and their cost increased by 1 Gem."
+    },
+    {
+      "Name": "Flawed Ruby",
+      "Gem Cost": "",
+      "Effect": "Get 3 additional mana on the first turn and get 1 mana less on later turns"
+    },
+    {
+      "Name": "Goldfish",
+      "Gem Cost": "",
+      "Effect": "If another hero starts a turn with 10 HP or less, transfer half of your HP to them; then heal up to 10 HP."
+    },
+    {
+      "Name": "Iron Pan",
+      "Gem Cost": "",
+      "Effect": "Completely immune to non-magic ranged attacks."
+    },
+    {
+      "Name": "Miniature Chair",
+      "Gem Cost": "",
+      "Effect": "Keep unspent mana points between turns."
+    },
+    {
+      "Name": "Pawn",
+      "Gem Cost": "",
+      "Effect": "Don't discard the cards in your hand at the end of your turn."
+    },
+    {
+      "Name": "Rage Cage",
+      "Gem Cost": "",
+      "Effect": "All attack deal +2 damage. You can no longer block yourself."
+    },
+    {
+      "Name": "Three Seashells",
+      "Gem Cost": "",
+      "Effect": "Each time you are damaged in combat, other players are healed for the same amount."
+    },
+    {
+      "Name": "Whale Figurine",
+      "Gem Cost": "",
+      "Effect": "Gain 1 extra Gem after each completed battle."
+    },
+    {
+      "Name": "Stone Mask",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Tessenjutsu",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Sticky Finger",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Salt Lamp",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Other Shoe",
+      "Gem Cost": "",
+      "Effect": ""
+    },
+    {
+      "Name": "Bow Tie",
+      "Gem Cost": "",
+      "Effect": ""
+    }
+  ],
+  "Other": [
+    {
+      "Name": "Tinker",
+      "Gem Cost": "",
+      "Effect": "You start your next battle with an active influence randomly chosen from all the influence cards available for your class."
+    },
+    {
+      "Name": "The Art of War",
+      "Gem Cost": "",
+      "Effect": "Draw additional card each turn in the next battle/"
+    },
+    {
+      "Name": "Evoke Entity",
+      "Gem Cost": "",
+      "Effect": "When out of mana, use 2HP per missing Mana."
+    },
+    {
+      "Name": "Give Blood",
+      "Gem Cost": "",
+      "Effect": "Gain 5 block at the start of your turn in the next battle."
+    },
+    {
+      "Name": "Glowing Crystal",
+      "Gem Cost": "",
+      "Effect": "+1 mana points in the next battle."
+    },
+    {
+      "Name": "Cracked Helmet",
+      "Gem Cost": "",
+      "Effect": "Gain 2 block at the start of your turn in the next battle."
+    },
+    {
+      "Name": "Fanny Pack",
+      "Gem Cost": "",
+      "Effect": "Select a card to be part of your starting hand in the next battles."
+    }
+  ]
+}

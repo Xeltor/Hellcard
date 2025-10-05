@@ -1,0 +1,4456 @@
+{
+  "Warrior Cards": [
+    {
+      "Name": "Sword Slash",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 2 damage. If target is far, deal 1 damage instead."
+    },
+    {
+      "Name": "Boomerang Shield",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal damage equal to your block value to the first monster in a long narrow cone."
+    },
+    {
+      "Name": "Heavy Sword",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Use 2 Stamina for additional 2 damage."
+    },
+    {
+      "Name": "Initiative",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Deal 5 damage if target's intent is attack."
+    },
+    {
+      "Name": "Mighty Blow",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage in a medium radius. Random monster in radius is dealt additional 2 damage."
+    },
+    {
+      "Name": "Sacrificial Lunge",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 8 damage minus your current block. Discard all Skill cards from hand."
+    },
+    {
+      "Name": "Short Sword",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 4 damage. If the monster is far, deal 2 damage instead."
+    },
+    {
+      "Name": "Slam",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage in a medium radius. Lose block. Get Disarm."
+    },
+    {
+      "Name": "Swords Akimbo",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage in a wide cone. Strain"
+    },
+    {
+      "Name": "All Out Strike",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage minus your current block in a medium radius. Discards all Skill cards."
+    },
+    {
+      "Name": "Charge",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage. Focus with +4 damage. Strain."
+    },
+    {
+      "Name": "Deathblow",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Kill a wounded monster with 10 or less HP."
+    },
+    {
+      "Name": "Deatheater Sword",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. If it kills the monster, increase the damage of this card by 5."
+    },
+    {
+      "Name": "Flurry of Blows",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage. Add a copy of this card to the discard pile."
+    },
+    {
+      "Name": "Fury",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage in a medium radius. Lose block. Get Disarm."
+    },
+    {
+      "Name": "Groundbreaker",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage in a medium radius."
+    },
+    {
+      "Name": "Haymaker",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. Deal additional 5 damage if the monster has block."
+    },
+    {
+      "Name": "Maim",
+      "Type": "Attack",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage. Focus with mana cost -1."
+    },
+    {
+      "Name": "Offering",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 12 damage. Lose 1 HP."
+    },
+    {
+      "Name": "Reckless Charge",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal damage equal to the cost of all cards in your hand (X) in a medium radius. Discard all non Attack cards.."
+    },
+    {
+      "Name": "Side Sword",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. Use 2 Stamina for additional 4 damage."
+    },
+    {
+      "Name": "Sticks and Stones",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal damage equal to your block."
+    },
+    {
+      "Name": "Whirlwind",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage to ALL monsters in near range. Strain."
+    },
+    {
+      "Name": "Breakthrough",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to your block in a long narrow cone."
+    },
+    {
+      "Name": "Crystal Sword",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 20 damage. If this kills the monster, reduce damage by 5."
+    },
+    {
+      "Name": "Diamond Knife",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage. Increase damage of this card by 5 with each play."
+    },
+    {
+      "Name": "Double-edged Sword",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 20 damage. Use 5 Stamina or get damaged for each Stamina missing."
+    },
+    {
+      "Name": "Furious Cyclone",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 8 damage to ALL monsters in near range and move them to far range. Strain."
+    },
+    {
+      "Name": "Gut Punch",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 damage plus Stamina. Double damage if the monster has block."
+    },
+    {
+      "Name": "Mighty Weaponry",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 12 damage in a medium radius. Lose block. Get Disarm."
+    },
+    {
+      "Name": "Red Mist",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 damage in a medium radius. Heal 3 HP for each non-summoned monster this kills."
+    },
+    {
+      "Name": "Reverse",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to monster's Strength."
+    },
+    {
+      "Name": "Scythe",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Kill all monsters with 10 or less HP in a medium radius."
+    },
+    {
+      "Name": "Serrated Blade",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 unblockable damage. Focus with +4 damage."
+    },
+    {
+      "Name": "Shadow Sword",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3x1 damage. Add 3 copies of this card to discard pile."
+    },
+    {
+      "Name": "Shield Bite",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to the number of cards (X) in your draw pile in a medium radius. Discard all non Attack cards."
+    },
+    {
+      "Name": "Starlight Strike",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 12 damage minus your current block in a medium radius and get 2 Stamina for every monster killed. Discard all Skill cards."
+    },
+    {
+      "Name": "Storm of Blades",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 2 damage for each Swords Sword in your deck (X) in a long medium cone. Use 4 Stamina to repeat."
+    },
+    {
+      "Name": "Unleash",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 7 damage. +5 for each Stamina you have."
+    },
+    {
+      "Name": "Whack 'em All",
+      "Type": "Attack",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "Deal 12 damage. Focus with mana cost -1."
+    },
+    {
+      "Name": "Shield Block",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Give 2 block to any hero."
+    },
+    {
+      "Name": "Akanbe",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Move the selected monster to your near section."
+    },
+    {
+      "Name": "Camaraderie",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Everybody draws 2 card(s)."
+    },
+    {
+      "Name": "Cross Blades",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add random 2 Attack cards to draw pile."
+    },
+    {
+      "Name": "Heroism",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Give 4 block to all heroes."
+    },
+    {
+      "Name": "Judgemental Scowl",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Break block. Gain 2 block"
+    },
+    {
+      "Name": "Ploughshares",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Gain 4 block. 6 if you have no Attack cards in hand."
+    },
+    {
+      "Name": "Preparation",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add 3 Stamina."
+    },
+    {
+      "Name": "Safeguard",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Give 4 block."
+    },
+    {
+      "Name": "Single Out",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Mark a random monster in the near range."
+    },
+    {
+      "Name": "Stretch",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Get 2 Stamina. Get 5 Stamina instead if you don't have any Swords Swords in hand."
+    },
+    {
+      "Name": "Tactics",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Draw 2 cards. Gain 2 block."
+    },
+    {
+      "Name": "Arsenal",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Everybody draws 2 cards. Use all Stamina for additional cards (2 Stamina each)."
+    },
+    {
+      "Name": "Barricade",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Give 6 block to all heroes."
+    },
+    {
+      "Name": "Deep Breath",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 2 Stamina. Draw 2 cards. Gain 4 block."
+    },
+    {
+      "Name": "Defiant Roar",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Break monsters' block in a long medium cone. Gain 2 block for each monster in the cone."
+    },
+    {
+      "Name": "Immutability",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Gain 6 block. 9 if you don't have an Attack cards in hand."
+    },
+    {
+      "Name": "Knuckle Crack",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Get 5 Stamina. Strain."
+    },
+    {
+      "Name": "Ox",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Double your block."
+    },
+    {
+      "Name": "Pacifist",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 4 block. Take a random Skill card."
+    },
+    {
+      "Name": "Provoke",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add random 2 Attack cards to draw pile. Take 2 random Attack cards."
+    },
+    {
+      "Name": "Second Wind",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Get 5 Stamina, draw 2 card(s) and gain 2 mana. Exhaust."
+    },
+    {
+      "Name": "Tap",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Mark. If the target is in near range, add 1 more mark."
+    },
+    {
+      "Name": "Taunt",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move the selected monster to your near section. Take a random Attack card."
+    },
+    {
+      "Name": "Weakest Link",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move the selected monster to your near section. Gain 3 Stamina."
+    },
+    {
+      "Name": "Ambush",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Move the selected monster to your near section. Gain 1 mana, 3 Stamina and Take a random Attack card."
+    },
+    {
+      "Name": "Battle Juice",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Get 5 Stamina. All heroes get 2 mana and draw 2 card(s). Exhaust."
+    },
+    {
+      "Name": "Cauterize Wound",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Use Stamina to heal any hero. Strain."
+    },
+    {
+      "Name": "Doom",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Mark. If any mosnter was already marked, deal them 5 damage."
+    },
+    {
+      "Name": "Iron Door",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Give 9 block to all heroes. 15 if you don't have an Attack card in hand."
+    },
+    {
+      "Name": "One For All",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "All heroes get a random legendary card to hand."
+    },
+    {
+      "Name": "Overwhelm",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add random 2 Attack cards to draw pile. Take 2 random Attack cards. They cost 0 until played or turn ends."
+    },
+    {
+      "Name": "Readiness",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 6 block. Get 5 Stamina. Draw 2 cards."
+    },
+    {
+      "Name": "Riddle of Steel",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Break all monsters' block. Give 5 block to all heroes."
+    },
+    {
+      "Name": "The Collector",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Everybody draws 2 cards. Use all Stamina for additional cards (1 Stamina each)."
+    },
+    {
+      "Name": "Turtle Up",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Double block for all heroes."
+    },
+    {
+      "Name": "¡No Pasarán!",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Give 6 block to all heroes. Take a random Skill card."
+    },
+    {
+      "Name": "Counter Strike",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 1 damage to the monster's attack leaves you with block. Exhaust. Unstackable."
+    },
+    {
+      "Name": "Fool's Guard",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Gain 3 block at the start of a turn. Gain Weak for one turn. Exhaust."
+    },
+    {
+      "Name": "Tip the Scales",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Gain 2 block after you kill a monster. Strain."
+    },
+    {
+      "Name": "Whetstone",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Your Swords Swords deal +2 damage for 3 turns."
+    },
+    {
+      "Name": "Bait",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Your attacks deal 1 more damage in near range. Exhaust."
+    },
+    {
+      "Name": "Crown",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Your Swords Swords deal +2 damage. Exhaust."
+    },
+    {
+      "Name": "Dread",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Give 2 block to all heroes after you kill a monster. Strain."
+    },
+    {
+      "Name": "Elysium",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Gain 4 block at the start of a turn. Exhaust."
+    },
+    {
+      "Name": "Flow",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Get 1 block every time you play an Attack card. Strain."
+    },
+    {
+      "Name": "Lie in Wait",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Get 3 Stamina if you have any unused mana at the end of your turn. Exhaust."
+    },
+    {
+      "Name": "Lift",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Get 1 Stamina for every 8th damage you deal. Exhaust. Unstackable."
+    },
+    {
+      "Name": "Mad Snack",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "Each turn you end without block increases the bonus damage your attacks deal by 1. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Padded Shield",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Get 2 Stamina if the monster's attack leaves you with block. Exhaust."
+    },
+    {
+      "Name": "Save",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Your block is not removed at the start of your turn. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Snap Back",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 1 damage to the monster if the monster's attack leaves you with Block."
+    },
+    {
+      "Name": "Cardio",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Get Stamina Burst. Strain."
+    },
+    {
+      "Name": "Inspire",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Next time you get Stamina Burst all heroes get Stamina Burst."
+    },
+    {
+      "Name": "Insult",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your Swords Swords deal +3 damage. Exhaust."
+    },
+    {
+      "Name": "Momentum",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Give 1 block to all heroes every time you play an Attack card. Strain."
+    },
+    {
+      "Name": "Root",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your block is not removed at the start of your turn. Gain 2 block at the beginning of your turn. Exhaust."
+    },
+    {
+      "Name": "Team Effort",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Give 2 block to all heroes after a monster is killed. Strain."
+    },
+    {
+      "Name": "Third Law",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "When monster's attack leaves you with block, deal equal damage to the attacker and get 2 Stamina. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Thrill",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your attacks deal 2 more damage. Exhaust."
+    },
+    {
+      "Name": "Vigor",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "When out of mana use Stamina instead (1 mana costs 2 Stamina). Unstackable. Exhaust."
+    },
+    {
+      "Name": "Ji Poke",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage to a monster in far range. On draw, gain 1 block."
+    },
+    {
+      "Name": "Ji Thrust",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage to a monster in far range. On draw, gain 2 block."
+    },
+    {
+      "Name": "Ground Ji",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. Gain 3 Stamina if the monster hit is frozen or stunned."
+    },
+    {
+      "Name": "Windmill Ji",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 damage to monsters in one far section. On draw, gain 2 block for each Jis Ji card in your deck"
+    },
+    {
+      "Name": "Sky Ji",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 15 damage. Gain 4 Stamina if the monster hit is frozen or stunned."
+    },
+    {
+      "Name": "Ji Sweep",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 8 Damage to all far monsters. Double the damage to frozen or stunned monsters."
+    },
+    {
+      "Name": "Fulcrum Ji",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Move 1 monster to the opposite distance. On draw, gain 1 block for every 2 monsters in your near section"
+    },
+    {
+      "Name": "Outreach Ji",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move 1 monster to the opposite distance. On Draw, gain 1 block for each monster in your near section."
+    },
+    {
+      "Name": "Ji Dao",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Give all heroes 2 block. On draw, deal 5 damage to frozen, stunned, or stun Immune monsters. On discard, move this card to your draw pile."
+    },
+    {
+      "Name": "Dragon Ji",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Move 1 monster to the opposite distance. Take 1 Attack card. It costs 0 mana this turn. On Draw, gain 1 block for each monster in your near section."
+    },
+    {
+      "Name": "Chip And Shatter",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "All your Attacks deal +1 damage to frozen or stunned monsters. Exhaust."
+    },
+    {
+      "Name": "Burning Blade",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "All your Attacks deal +2 damage to frozen or stunned monsters. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Ice Breaker",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Your Swords Swords and Jis Jis deal double damage to frozen monsters. Exhaust."
+    },
+    {
+      "Name": "Fracture Line",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "All your Attacks deal +2 damage to frozen or stunned monsters. Strain."
+    },
+    {
+      "Name": "Gong",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your Swords Swords and Jis Jis deal double damage to stunned monsters. Exhaust."
+    }
+  ],
+  "Rogue Cards": [
+    {
+      "Name": "Sharp Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 2 damage. 1 damage if the monster is near."
+    },
+    {
+      "Name": "Caltrops",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 4 damage to monsters in far range with the move or flank intent."
+    },
+    {
+      "Name": "Clockwork Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. 2 damage if the target is near."
+    },
+    {
+      "Name": "Improvise",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage to all monsters in near range. +3 damage if you have at least one Arrows Arrow in hand."
+    },
+    {
+      "Name": "Mordhau",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Stun if you have Tired or Shaky Hands."
+    },
+    {
+      "Name": "Rogue Tactics",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage. Exhaust."
+    },
+    {
+      "Name": "Shakedown",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal twice as much damage as the gemstones you have. (Gems: X)."
+    },
+    {
+      "Name": "Blindsided",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 15 damage. Exhaust."
+    },
+    {
+      "Name": "Hamstring",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage to all monsters in far range with move or flank intents."
+    },
+    {
+      "Name": "Lash Out",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal damage to a monster in near range equal to your incoming damage. Exhaust a random card."
+    },
+    {
+      "Name": "Multi Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Fire 2 Clockwork Arrows."
+    },
+    {
+      "Name": "Rogue Knuckles",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage to all monsters in near range. +2 damage for each Arrows Arrow in hand (X)."
+    },
+    {
+      "Name": "Scissor Strike",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage. Stun."
+    },
+    {
+      "Name": "Sharp Rain",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage to all far monsters for every Arrows Arrow cards in your deck. (X)"
+    },
+    {
+      "Name": "Sick & Tired Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. Damage is unblockable if you have Tired or Shaky Hands."
+    },
+    {
+      "Name": "Throw Knives",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage to all monsters in a section."
+    },
+    {
+      "Name": "Trickle Down",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal as much damage in a small radius as the gemstones you have. (Gems: X) Exhaust a random card from hand."
+    },
+    {
+      "Name": "Arrow Split",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 4 damage. Deal 2 damage instead if target is near. Add a copy of this card to draw pile."
+    },
+    {
+      "Name": "Barrage",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 12 damage to all monsters with move or flank intents."
+    },
+    {
+      "Name": "Chainshot Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 damage to monster. If this kills it, draw a card and repeat for the nearest monster."
+    },
+    {
+      "Name": "Deflect",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to your incoming damage. Exhaust a random card."
+    },
+    {
+      "Name": "Minesweep",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 2 damage to all monsters in section. Deal 5 damage if there is a Bomb Bomb in that section."
+    },
+    {
+      "Name": "Piercing Arrow",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 unblockable damage. Stun."
+    },
+    {
+      "Name": "Shrapnel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 2 damage to all far monsters and 1 to near monsters for every Arrows Arrow in your hand. Get Tired."
+    },
+    {
+      "Name": "Shredder Strike",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 4 damage to all monsters in near range. +1 damage for each Arrows Arrow in your deck."
+    },
+    {
+      "Name": "Stonks",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal double the number ot gemstones you have as damage in a small radius. (Gems: X). Exhaust a random card from your hand."
+    },
+    {
+      "Name": "Violence",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Kill a non-boss monster. Exhaust."
+    },
+    {
+      "Name": "Concussive Arrow",
+      "Type": "Summoned Attack",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Deal 4 damage and stun in a long narrow cone. Exhaust."
+    },
+    {
+      "Name": "Talon Arrow",
+      "Type": "Summoned Attack",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Deal 2 damage to the first monster in a long narrow cone. Exhaust."
+    },
+    {
+      "Name": "Buckler",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Gain 2 block."
+    },
+    {
+      "Name": "*Bonk*",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Stun. Get Shaky Hands."
+    },
+    {
+      "Name": "Bottomless Purse",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Selected hero draws 2 cards. Focus with +1 card. Reset to 2 cards on play."
+    },
+    {
+      "Name": "Cover",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Gain 3 block. Other heroes get 1 block."
+    },
+    {
+      "Name": "Death Mark",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add 1 mark."
+    },
+    {
+      "Name": "Eagle Trick",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Lower cost of a random card in hand to 0 mana until it's played or the turn ends."
+    },
+    {
+      "Name": "Kick",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Move a monster from near to far range."
+    },
+    {
+      "Name": "Loaded Die",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Add 1 mark to random monster."
+    },
+    {
+      "Name": "Luck",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Draw a card. If it costs 0 mana, draw another one."
+    },
+    {
+      "Name": "Osoto Gari",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Break block."
+    },
+    {
+      "Name": "Payback",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Stun 1 random monster(s) in a medium radius. If you have 4 or more gemstones, get 1 mana. (Gems: X)."
+    },
+    {
+      "Name": "Quiver",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add 2 Talon Arrows to your hand."
+    },
+    {
+      "Name": "Teamwork",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Everyone draws 1 card(s)."
+    },
+    {
+      "Name": "Adapt",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Draw a card. If it costs 0 mana, repeat."
+    },
+    {
+      "Name": "Bling",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Stun 1 random monster(s) in a medium radius. If you have 4 or more gemstones, stun all of them and get 1 mana. (Gems: X)."
+    },
+    {
+      "Name": "Chainshirt",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give as much block as the selected hero has incoming damage. Get Tired. Strain."
+    },
+    {
+      "Name": "Cornucopia",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 1 random Bomb Bomb to your draw pile. Take Ignite."
+    },
+    {
+      "Name": "Diversify",
+      "Type": "Skill",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "Take 1 Skill, 1 Attack and 1 Influence cards. They cost 2 mana less this turn."
+    },
+    {
+      "Name": "Enchufla",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move monsters in radius to opposite distance (from far to near and vice versa)."
+    },
+    {
+      "Name": "Entrench",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Give block equal to number of Arrows Arrows in the draw pile (X)."
+    },
+    {
+      "Name": "Flash",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Stun all monsters with Attack intent in near range. Get Tired."
+    },
+    {
+      "Name": "Fortify",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Gain 4 block. Other heroes get 2 block."
+    },
+    {
+      "Name": "Gancho",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Move a monster to the opposite distance (from far to near and vice versa)."
+    },
+    {
+      "Name": "Mad Skills",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Break monsters' block in a medium radius."
+    },
+    {
+      "Name": "Overexertion",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Lower the cost of 2 random cards in hand to 0 mana until played or the turn ends. Get Tired."
+    },
+    {
+      "Name": "Paint Balloon",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 1 mark. Add 3 mark instead if a different monster was already marked."
+    },
+    {
+      "Name": "Persevere",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 5 block. 10 if you have Shaky Hands, Tired or Weak."
+    },
+    {
+      "Name": "Risky Draw",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Add 3 Talon Arrows to your hand. Get Tired."
+    },
+    {
+      "Name": "Salve",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Selected hero is healed for 2 HP and draws 1 card. Strain."
+    },
+    {
+      "Name": "Battle Snack",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Selected hero is healed for 4HP, gets 1 mana and draws 1 card(s). Strain."
+    },
+    {
+      "Name": "Bulwark",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 4 block, plus an additional 4 for every Bomb Bomb on the battleground. Other heroes get half that."
+    },
+    {
+      "Name": "Clothesline",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Stun all monsters in a medium radius and draw a card."
+    },
+    {
+      "Name": "Clout",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Give as much block to all heroes as the incoming damage each one has. Get Tired. Strain."
+    },
+    {
+      "Name": "Copycat",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain block equal to another hero's block."
+    },
+    {
+      "Name": "Dig",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 random Bomb Bomb to your draw pile. Select a Bomb Bomb on the battlefield. Add a copy of it to your draw pile. Take Ignite."
+    },
+    {
+      "Name": "Emergency Tonic",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 1 mana and 3 block. Take this card to hand every time you get Tired or Shaky Hands."
+    },
+    {
+      "Name": "Finesse",
+      "Type": "Skill",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "All heroes draw 2 cards that cost 2 less until played or the turn ends."
+    },
+    {
+      "Name": "Hired Help",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Give mana for every gemstone you have. Exhaust a random card."
+    },
+    {
+      "Name": "Keeping Distance",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Give block equal to number of Arrows Arrows in your deck (X)."
+    },
+    {
+      "Name": "Marked Deck",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Double mark stack or add 1 mark if there isn't any."
+    },
+    {
+      "Name": "Not Today",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Break all monster's block."
+    },
+    {
+      "Name": "Rallying Cry",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Lower cost of 2 random cards in hand to 0 mana until they are played or the turn ends."
+    },
+    {
+      "Name": "Secret Stash",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add 3 Talon Arrows to your hand and 3 to your draw pile. Get Tired."
+    },
+    {
+      "Name": "Speed",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Move monsters in a large radius to the opposite distance. (from far to near and vice versa)."
+    },
+    {
+      "Name": "Tinker",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add Concussive Arrow to your draw pile."
+    },
+    {
+      "Name": "Vanish",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Stun all monsters with attack intent. Get Tired."
+    },
+    {
+      "Name": "Ignite",
+      "Type": "Summoned Skill",
+      "Cost": "1",
+      "Rarity": "N/a",
+      "Effect": "Detonate selected Bomb Bomb. Exhaust."
+    },
+    {
+      "Name": "Bouncy Bomb",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Bomb Bomb. Deal 6 piercing damage to all monsters in a section."
+    },
+    {
+      "Name": "Eagle's Eye",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Arrows Arrows deal +1 damage in far range for 3 turns."
+    },
+    {
+      "Name": "Knockback",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Move a random monster from your near to far section at the start of your turn. Exhaust."
+    },
+    {
+      "Name": "Mastery",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add 1 Talon Arrow to your hand at the start of your turn. Strain."
+    },
+    {
+      "Name": "Precision Bomb",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Bomb Bomb. Deal 6 damage to the monster with the highest Strength in a section and stun it."
+    },
+    {
+      "Name": "Backflip",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Every turn 1 most powerful attack(s) on you will deal no more that 10 damage. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Buster Bomb",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Bomb Bomb. Deal 7 unblockable damage to all monsters in a section and break their block."
+    },
+    {
+      "Name": "Breath Control",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Get 1 additional mana next turn and remove this influence. Unstackable."
+    },
+    {
+      "Name": "Damocles' Sword",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "At the start of the turn, move a random monster from your near to far section and stun it. Exhaust."
+    },
+    {
+      "Name": "Deadly Roulette",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "At the end of the turn, if there is no marked monster, add 2 mark to a random monster. Exhaust."
+    },
+    {
+      "Name": "Flashbang Bomb",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Bomb Bomb. Deal 8 damage to all monsters in a section and stun them."
+    },
+    {
+      "Name": "Garbage Day",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 1 Concussive Arrow to your hand at the start of your turn. Strain."
+    },
+    {
+      "Name": "Ivy Extract",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Arrows and Quarrels Quarrels deal +1 damage for 3 turns."
+    },
+    {
+      "Name": "Perfect Balance",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Gain 2 block every time you play an Arrow."
+    },
+    {
+      "Name": "Too Old For This",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Set cost of 1 random card in your hand to 0 if you have Tired at the start of the Turn. Exhaust."
+    },
+    {
+      "Name": "Bargain",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Set the cost of 1 random card in your hand to 0 at the start of the turn. Exhaust."
+    },
+    {
+      "Name": "Deadly Streak",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Arrows Arrows deal +1 damage. each Arrows Arrow you play increases this bonus by 1. Playing a non-Arrow card resets the bonus to 1. Exhaust. Unstackable."
+    },
+    {
+      "Name": "Forgery Kit",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "At the start of your turn, add 2 mark to an already marked monster or a random one. Exhaust."
+    },
+    {
+      "Name": "Hot Potato",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "All heroes get 1 mana and you add a random Bomb Bomb to draw pile every time you detonate a Bomb Bomb. Strain."
+    },
+    {
+      "Name": "Maximum Effort",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Give all heroes 1 additional mana next turn. Unstackable."
+    },
+    {
+      "Name": "Porcupine",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Gain 2 block everytime you play or discard an Arrow."
+    },
+    {
+      "Name": "Shadow Stance",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Every turn 1 most powerful attack(s) on you will deal no more than 5 damage. Unstackable. Exhaust."
+    },
+    {
+      "Name": "Shockwave Bomb",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Bomb Bomb. Deal 15 unblockable damage to all monsters in a section and stun them."
+    },
+    {
+      "Name": "Sleeve Trick",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Concussive Arrow(s) to your hand at the start of your turn. Always get Concussive Arrows instead of Talon Arrows. Strain."
+    },
+    {
+      "Name": "Wildcard",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "At the start of the turn, move a random monster from your near to far section, deal 2 damage and stun it. Exhaust."
+    },
+    {
+      "Name": "Quality Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 2 damage to the first monsters in both near and far ranges in a long narrow cone. Get Shaky Hands."
+    },
+    {
+      "Name": "Qi Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage to the first monsters in both near and far ranges in a long narrow cone. Get Shaky Hands."
+    },
+    {
+      "Name": "Ram Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Move a monster from near to far range. Get Shaky Hands."
+    },
+    {
+      "Name": "Quail Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage to the first monsters in both near and far ranges in a long narrow cone. Get Shaky Hands."
+    },
+    {
+      "Name": "Loki's Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage. Move a monster from near to far range. Get Shaky Hands."
+    },
+    {
+      "Name": "Wasp Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 7 damage. Lose 3 HP on discard. Get Shaky Hands."
+    },
+    {
+      "Name": "Quackery Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 7 damage to the first monsters in both near and far ranges in a long narrow cone. Get Shaky Hands."
+    },
+    {
+      "Name": "Zhuge Crossbow",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 7 damage. Repeat for each Quarrels Quarrel in hand. Discard all Quarrels Quarrels (X)."
+    },
+    {
+      "Name": "Lovers' Quarrel",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage. Lose 3 HP on discard. Get Shaky Hands."
+    },
+    {
+      "Name": "Zero in",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Take random Quarrels Quarrel to hand"
+    },
+    {
+      "Name": "Cranequin",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Everyone draws 2 card(s). Take random Quarrels Quarrel to hand."
+    },
+    {
+      "Name": "Quick Draw",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Everyone draws 3 card(s). Take 2 random Quarrels Quarrel(s) to hand."
+    },
+    {
+      "Name": "Cheek Rest",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Quarrels Quarrels deal +1 damage in near range for 3 turns."
+    },
+    {
+      "Name": "Incendiary Tip",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Your Arrows Arrows and Quarrels Quarrels deal double damage to frozen monsters. Exhaust. Unstackable."
+    },
+    {
+      "Name": "Dragon's Breath",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your Arrows Arrows and Quarrels Quarrels deal +2 damage per stack and double damage to frozen monsters."
+    }
+  ],
+  "Mage Cards": [
+    {
+      "Name": "Magic Bolt",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 1 damage. If it kills the monster, get 1 mana and draw 1 card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Comet Rune",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage in a medium radius. Add 1 Amnesia to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Wind Blast",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage. Add a copy of this card to draw pile. Combine 3 Wind Blasts into a Cyclone.",
+      "Study": "-"
+    },
+    {
+      "Name": "Echo Rune",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage. Add Amnesia to draw pile. Take this card to hand when any other Rune Rune was played.",
+      "Study": "-"
+    },
+    {
+      "Name": "Fractal Whip",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 6 damage. If it kills the monster, reduce future cost by 1.",
+      "Study": "-"
+    },
+    {
+      "Name": "Hellfire Rune",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage in a short wide cone. Add 1 Amnesia to the draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Lightning",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Deal 1 damage to 2 nearest monsters.",
+      "Study": "-"
+    },
+    {
+      "Name": "Sucker Bolt",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage. If it kills the monster, get 1 mana and draw 1 card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Volcanic Lightning",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 6 damage to a monster in near range. Add Arcane Stupor to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Bat Bolt",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage. If it kills a non-summoned monster, heal yourself 3 HP.",
+      "Study": "-"
+    },
+    {
+      "Name": "Blood Surge",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 15 damage to monster and 4 to yourself.",
+      "Study": "-"
+    },
+    {
+      "Name": "Harpoon Bolt",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage. If it kills the monster, you get 1 mana and all hearos draw a card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Inferno",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage to all monsters in near range. If there are more than 3 monsters, deal +1 damage.",
+      "Study": "-"
+    },
+    {
+      "Name": "Meteor Rune",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage in a medium radius. Deal 2 additional damage if you have a Status card in hand. Add 1 Amnesia to the draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Nova",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 6 damage to all monsters in near range. Add Arcane Stupor to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Reforge Weakness",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal as much damage as Status cards in your hand (X).",
+      "Study": "-"
+    },
+    {
+      "Name": "Rune of Ice",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage and freeze in a medium radius. Add 1 Amnesia to the draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Zap",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. Deal one less damage to the nearest monster. Repeat for 3 more monsters",
+      "Study": "-"
+    },
+    {
+      "Name": "Bolt Hell",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage in a medium radius. For each monster killed, heal yourself 1 HP and all heroes draw a card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Channel Pain",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 15 + half of your missing HP points damage (total X) to a monster and 4 to yourself.",
+      "Study": "-"
+    },
+    {
+      "Name": "Chaos Rune",
+      "Type": "Attack",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "Randomly distribute 25x1 damage between all monsters. Add 2 Amnesia to the draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ethernal Return",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage to the marked monster. If it kills the monster, transfer mark to a random monster.",
+      "Study": "-"
+    },
+    {
+      "Name": "Glass Shrike",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Set your HP to 50% max HP. Deal as much damage and gain as much block as twice the HP difference (X).",
+      "Study": "-"
+    },
+    {
+      "Name": "Hearteater Bolt",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage. If it kills the monster, add its Strength to the damage value of the next Bolt Bolt.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ostracon",
+      "Type": "Attack",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "Kill all summoned monsters.",
+      "Study": "-"
+    },
+    {
+      "Name": "Outburst",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 6 damage to all monsters in near range.",
+      "Study": "-"
+    },
+    {
+      "Name": "Outside the Box",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Exhaust a random card with the highest cost in hand. Deal twice as much damage.",
+      "Study": "-"
+    },
+    {
+      "Name": "Shatter",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage +1 for every frozen monster and freeze in a medium radius.",
+      "Study": "-"
+    },
+    {
+      "Name": "Sunray Rune",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 5 damage +2 for each Status in your deck in a medium radius. Add 1 Amnesia to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Vitruvian Mage",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal as much damage as Status cards in your deck (X).",
+      "Study": "-"
+    },
+    {
+      "Name": "Crowdsource",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage (X) equal to the number of monsters in a medium radius.",
+      "Study": "-"
+    },
+    {
+      "Name": "Thunder",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage to a monster. If this doesn't kill it, repeat for the nearest monster. Never hits the same monster twice.",
+      "Study": "-"
+    },
+    {
+      "Name": "Cyclone",
+      "Type": "Summoned Attack",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Deal 10 damage in a medium radius.",
+      "Study": "-"
+    },
+    {
+      "Name": "Maelstrom",
+      "Type": "Summoned Attack",
+      "Cost": "1",
+      "Rarity": "N/a",
+      "Effect": "Deal 15 damage and freeze in a large radius. Add incantation to draw pile. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ritual Channeling",
+      "Type": "Summoned Attack",
+      "Cost": "2",
+      "Rarity": "N/a",
+      "Effect": "Deal damage equal to Occult Ritual influence charge to monsters in a medium radius and reset the counter.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ethereal Shield",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Give 1 block to all heroes.",
+      "Study": "-"
+    },
+    {
+      "Name": "Cold Arm",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Freeze.",
+      "Study": "-"
+    },
+    {
+      "Name": "Erudition",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Give 2 block to all heroes. Give 1 block extra for each Rune Rune in your deck. (X total)",
+      "Study": "-"
+    },
+    {
+      "Name": "Grimoire",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Draw 3 cards, discard a random Status card from hand.",
+      "Study": "-"
+    },
+    {
+      "Name": "Kugi",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Mark a monster with the highest Strength.",
+      "Study": "-"
+    },
+    {
+      "Name": "Link",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Other heroes gain mana equal to yours and draw 1 card. Lose all your mana. Get Burnout",
+      "Study": "-"
+    },
+    {
+      "Name": "Teleport",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Move the monster clockwise to the next hero's slice and swap its section.",
+      "Study": "-"
+    },
+    {
+      "Name": "Unpack the Bag",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add Scroll of Wisdom, Scroll of Mind, Scroll of Wall to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ascendance",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "All heroes draw 3 cards.",
+      "Study": "-"
+    },
+    {
+      "Name": "Bolt the Bolted",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move monster to a random section and deal 2 damage to all monsters in that section.",
+      "Study": "-"
+    },
+    {
+      "Name": "Cheat",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Lower cost of a random card in hand to 0 mana until it's played or the turn ends.",
+      "Study": "-"
+    },
+    {
+      "Name": "Chilly Blow",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Freeze in a medium radius.",
+      "Study": "-"
+    },
+    {
+      "Name": "Equilibrium",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "All heroes gain 2 mana and draw 2 cards. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Ice Fort",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 5 block for every frozen monster.",
+      "Study": "-"
+    },
+    {
+      "Name": "Incantation",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add Final Word to the draw pile. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Iron Will",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 5 block to all heroes that have 5 or more incoming damage, 2 block otherwise.",
+      "Study": "-"
+    },
+    {
+      "Name": "Magic Marker",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 2 mark to an already marked monster or to a random one if none is marked.",
+      "Study": "-"
+    },
+    {
+      "Name": "Mana Shield",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 10 block. Add Arcane Stupor to draw pile.",
+      "Study": "-"
+    },
+    {
+      "Name": "Mental Wall",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Give as much block as Status cards in your deck (X).",
+      "Study": "-"
+    },
+    {
+      "Name": "Rewrite",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Duplicate all Scroll Scrolls in your deck (X). if you don't have any, add 2 random Scroll Scroll(s) to hand.",
+      "Study": "-"
+    },
+    {
+      "Name": "Shuffle",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Discard hand. Draw as many cards and gain 1 mana.",
+      "Study": "-"
+    },
+    {
+      "Name": "Sweep",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Move monsters in a small radius clockwise to hte next hero's slice and swap their section.",
+      "Study": "-"
+    },
+    {
+      "Name": "Arcane Wager",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "All heroes draw 4 cards. You get 1 mana point(s) for each card drawn that costs 2 or more.",
+      "Study": "-"
+    },
+    {
+      "Name": "Botaoshi",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Move monsters in a small radius clockwise to the next hero's slice, swap their section and deal 2 damage to all monsters in that section.",
+      "Study": "-"
+    },
+    {
+      "Name": "Brand of Doom",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Add 5 mark.",
+      "Study": "-"
+    },
+    {
+      "Name": "Eternal Winter",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Freeze all monsters. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Excession",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "All heroes draw cards until they have their hands full and get 1 mana. Strain",
+      "Study": "-"
+    },
+    {
+      "Name": "Gallstones",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Rune Rune to hand. Exhaust all Status cards from hand and add 1 bonus Rune Rune for each.",
+      "Study": "-"
+    },
+    {
+      "Name": "Infuse",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Give mana for every Status card in your hand but no less than 1 (X). Exhaust these cards.",
+      "Study": "-"
+    },
+    {
+      "Name": "Mimic",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Give block to all heroes equal to the monster's block but no less than 5.",
+      "Study": "-"
+    },
+    {
+      "Name": "Paper Library",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add 2 random Scroll Scrolls in hand. Focus with +1 Scroll Scroll number. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Purify",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Exhaust all Status cards from your deck and heal 1 HP for each (X total).",
+      "Study": "-"
+    },
+    {
+      "Name": "Simulacrum",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Double block for all heroes giving them at least 2.",
+      "Study": "-"
+    },
+    {
+      "Name": "Triage",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Heal most wounded hero by the 3x mana cost of the most expensive card in hand. Exhaust that card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Weave Laylines",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "All heroes gain 5 mana and draw 2 cards. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Final Word",
+      "Type": "Summoned Skill",
+      "Cost": "1",
+      "Rarity": "N/a",
+      "Effect": "Add Maelstrom to the draw pile. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Scroll of Wisdom",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Selected Hero draws a card. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Scroll of Mind",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Give 1 mana. Exhaust",
+      "Study": "-"
+    },
+    {
+      "Name": "Scroll of Wall",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Give 5 block. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Brutal Thaw",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Your Bolt Bolts deal +1 damage to frozen monsters. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Meditation",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Common",
+      "Effect": "Gain 1 mana each turn. Focus with cost -1. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Obsidian Dust",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "All Bolt Bolts get +1 damage for 3 turns.",
+      "Study": "-"
+    },
+    {
+      "Name": "Swell",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "If you got damaged last turn, heal yourself by 20% of your max HP. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Unstoppable Force",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Your next Rune Rune is played twice.",
+      "Study": "-"
+    },
+    {
+      "Name": "Armageddon",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "After 3 turns, deal 10 damage to all monsters. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Bolt Dance",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Your Bolt Bolts deal +1 damage per stack.",
+      "Study": "-"
+    },
+    {
+      "Name": "Conduit Aura",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage to the nearest monster every time you draw a Status card. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Enchant",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Your next Rune Rune is played twice and doesn't add a Status card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Flux",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Your next Attack card is played twice.",
+      "Study": "-"
+    },
+    {
+      "Name": "Mend Wounds",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "If you got damaged last turn, heal the most wounded hero by 20% of your max HP.",
+      "Study": "-"
+    },
+    {
+      "Name": "Mindset",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Gain 2 block every time you draw a Status card. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Power is Knowledge",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 1 random Scroll Scroll to hand when you kill a monster. Once per turn. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Reinvigorate",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 mana and draw 1 additional card every turn. Focus with cost -1. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Snowball",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Your Bolt Bolts deal double damage to frozen monsters. Exhaust. Unstackable.",
+      "Study": "-"
+    },
+    {
+      "Name": "Switcheroo",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Playing a Rune Rune increases bonus damage to Rune Runes by 1. The bonus resets at 6. Unstackable. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Thriftiness",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Take random Bolt Bolt to hand when you kill a monster. Works once per turn per stack.",
+      "Study": "-"
+    },
+    {
+      "Name": "Aether Splash",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Playing a Rune Rune increases bonus damage to Rune Runes by 1. The bonus resets at 10. Unstackable. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Anamnesis",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "If you got damaged last turn, heal all heroes by 20% of Max HP. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Bookmark",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Your next card is played twice and doesn't add you a Status card.",
+      "Study": "-"
+    },
+    {
+      "Name": "Dark Pact",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "All heroes get 5 block, 2 mana, and draw 2 cards. After 3 turns, deal 10 damage to all monsters and yourself. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Feedback Loop",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Every time you lose HP, deal twice the same damage to the attacking monster. Exhaust. Unstackable.",
+      "Study": "-"
+    },
+    {
+      "Name": "Grit",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Give 3 block to all heroes and deal 3 damage to the nearest monster every time you draw a Status card. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Midnight Oil",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Gain 1 mana and 1 additional card every turn. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Occult Ritual",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Charge when you play a card. Add Ritual Channeling to draw pile. Exhaust. Unstackable.",
+      "Study": "-"
+    },
+    {
+      "Name": "Paper Recycle",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 random Scroll Scroll and take random Bolt Bolt to hand when you kill a monster. Strain.",
+      "Study": "-"
+    },
+    {
+      "Name": "Subzero",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your Bolt Bolts deal +2 damage per stack and double damage to frozen monsters.",
+      "Study": "-"
+    },
+    {
+      "Name": "Amnesia",
+      "Type": "Summoned Status",
+      "Cost": "1",
+      "Rarity": "N/a",
+      "Effect": "Can't play Rune Runes when this card is in hand. Exhaust.",
+      "Study": "-"
+    },
+    {
+      "Name": "Page Rip",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage in a small radius. Draw 1 card for each active book.",
+      "Study": "-"
+    },
+    {
+      "Name": "Close Chapter",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage in a medium radius. All heroes draw 1 card for each active Book.",
+      "Study": "-"
+    },
+    {
+      "Name": "Librarian Hush",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage in a large radius. All heroes draw 2 cards for each active Book.",
+      "Study": "-"
+    },
+    {
+      "Name": "Cocoa Mug",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "1 random Study Value Book in your hand has its Study counter reduced by 2.",
+      "Study": "-"
+    },
+    {
+      "Name": "Speed Reading",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "2 random Study Value Books in your deck have their Study counter reduced by 2.",
+      "Study": "-"
+    },
+    {
+      "Name": "Indexed Rules",
+      "Type": "Skill",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "All Study Value Books in your deck have their Study counter reduced by 2.",
+      "Study": "-"
+    },
+    {
+      "Name": "Book Worm",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 1 turn(s), when you kill a non-summoned monster you draw 1 card.",
+      "Study": "3 Study Value"
+    },
+    {
+      "Name": "Big Book",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turns(s), when a hero kills a non-summoned monster they draw 1 card.",
+      "Study": "4 Study Value"
+    },
+    {
+      "Name": "Book of Books",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turns(s), when a hero kills a non-summoned monster all heroes draw 1 card.",
+      "Study": "5 Study Value"
+    },
+    {
+      "Name": "Book Smash",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 1 turn(s), all your Attack cards deal +2 damage.",
+      "Study": "3 Study Value"
+    },
+    {
+      "Name": "Book Stack",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turn(s), Attack cards of all heroes deal +2 damage.",
+      "Study": "4 Study Value"
+    },
+    {
+      "Name": "Little Red Book",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turn(s), Attack cards of all heroes deal +4 damage.",
+      "Study": "5 Study Value"
+    },
+    {
+      "Name": "Book of Fortitude",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 1 turn(s), you gain 2 block when you play a Skill card.",
+      "Study": "3 Study Value"
+    },
+    {
+      "Name": "Book Cover",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turn(s), any hero gains 2 block when they paly a Skill card.",
+      "Study": "4 Study Value"
+    },
+    {
+      "Name": "Book of the Dead",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Study this Study Value Book and return it to your draw pile. Once Studied, for the next 2 turns, any hero gains 4 block when they play a Skill card.",
+      "Study": "5 Study Value"
+    }
+  ],
+  "Tinkerer Cards": [
+    {
+      "Name": "Screw Shot",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 1 damage. Gain 1 Screw(s) Screw(s)",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Zap Zap",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 2 splash damage in a small radius. Return this card to your hand.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Magnet",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 3 damage. Gain 2 Screw(s) Screw(s). If you have any cores Cores Cores gain 2 more Screw(s) Screw(s.)",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Piñata",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 1 damage. If it kills a monster, gain 5 Screw(s) Screw(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Hammer Throw",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage to the first monster in a long medium cone for each Screw(s) Screw you have.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Percussive Maintenance",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 4 damage. Use 1 Screw(s) Screw(s) to stun.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Discharge",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 5 splash damage in a small radius. Return this card to your hand.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Ribauldequin",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 2 unblockable splash damage in a medium radius and stun 1 of the monsters in the radius.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Boom Bird",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 15 damage. Exhaust.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Boomstick",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage. Gain 3 Screw(s) Screw(s). If you have any Cores Cores, do it twice.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Iron Rain",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage in a large radius. Gain 2 Screw(s) Screw(s) for each monster killed.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Hammer Time",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage in a long medium cone for each Screw(s) Screw you have. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Screwdriver",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 6 damage. Use 1 Screw(s) Screw(s) to make it unblockable and to stun.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Rapid Disassembly",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Discard all cards. Deal 3 damage in a medium radius and gain 2 Screw(s) Screw(s) for each discarded card.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Coil",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 splash damage in a medium radius. Return this card to your hand.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Muon Box",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 6 unblockable damage in a large radius and stun 3 of the monsters in the radius.",
+      "Screw": "4 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Boom Box",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 20 splash damage in a medium radius. Remove 1 copy of the first Contraption or Exhaust.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Quake",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage and gain 5 Screw(s) Screws. If you have 2 or more Core(s), deal 40 damage and gain 10 Screw(s) instead.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Screwnado",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 7 Damage in a large radius and swap the monsters' sections. Gain 1 Screw(s) Screw(s) for each non-summoned monster in the radius.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Strike the Earth",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage in a medium cone for each Screw(s) Screw you have. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Power Drill",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage. Use 1 Cores Core(s) to make it unblockable splash damage in a medium radius and stun all monsters in the radius.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Plasma Globe",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 9 splash damage in a medium radius around 4 random monsters. Return this card to your hand.",
+      "Screw": "10 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Deflector",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 unblockable damage to all monsters. Use 1 Cores Core(s) to stun all with Attack intent.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Carpet Bombing",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 35 splash damage in a medium radius around 2 random monsters. Remove the first Contraption or Exhaust.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Core Dump",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Remove all your Contraptions and deal 10 damage, or 25 damage if you use 4 Cores Core(s), to all monsters for each type of Contraption removed. Exhaust.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Booster Boots",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Use all your Cores Cores. Attack 2 random monsters for each Cores Core spent. Deal 20 damage to each.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Gear Up",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Give 2 block. Gain 1 Screw(s) Screw(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Science!",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Gain 1 Cores Core(s) If you had Cores Cores, discard 1 random card(s) and Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Field Repairs",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Give 3 block. Gain 3 Screw(s) Screw(s)",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Whirligig",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Use all your Screw(s) Screws. All heroes gain 1 block for each Screw(s) Screw spent. Use 1 Cores Core, to make it 3 (X).",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Junk Drawer",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Draw 2 cards.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Flywheel",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Draw 1 card. Use 1 Cores Core(s) to draw 1 more card and gain 1 mana.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Field Flux",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Gain 1 Cores Core(s) If you had Cores Cores, Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Potato",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Gain 1 Cores Core(s). Increase the cost by 1 Screw(s) Screw(s)",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Smoke Screen",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Stun the nearest unstunned monster. Return this card to your hand.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Cannibalize",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Remove 1 copy of the first Contraption to gain 4 Screw(s) Screw(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Jump Start",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Activate the first Contraption.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Rewire",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Move the first Contraption to the last position. Draw a card.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Sugar Rush",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Use all mana. Other heroes draw 1 card(s) for every 1 mana you use. Don't discard cards at the end of this turn.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Metalworks",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Give 5 block. Gain 4 Screw(s) Screw(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Gauntlet",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Use all your Screw(s) Screws. All heroes gain 2 block for each Screw(s) Screw spent. Use 1 Cores Core, to make it 4 (X).",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Junk Mail",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 block for every Screw(s) Screw you have.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Bespoke",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 Screw(s) Screw(s) for every 2 points of block you have.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Cookie Cutter",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 4 Cookie to your draw pile.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Rolodex",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "All heroes draw 2 cards.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Long Shadow",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Draw 1 card. Use 1 Cores Core(s) to draw 2 more cards and gain 1 mana.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Quantum Flow",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 Cores Core(s), give 1 mana and draw 1 Contraption. If you had 2 or more Cores Cores, Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Battery",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Gain 2 Cores Core(s). Increase the cost by 1 Screw(s) Screws.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Hidden Variable",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Discard 1 random card to gain 1 Cores Core.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Dazzle",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Stun monsters with Attack intent in a lone wide cone. Return this card to your hand.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Redesign",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Remove the first Contraption completely to gain 10 Screw(s) Screw(s) and 1 Cores Cores.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Capacitor",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Activate the first and the last Contraption once.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Engage",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Activate all your Contraptions once.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Organize",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 Screw(s) Screw(s) and draw a card. Add 2 Quicksort to your hand.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Terminate",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Use all mana. All heroes draw 1 cards for every 1 mana you use. Gain 2 Screw(s) Screw(s) and don't discard cards at the end of this turn.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Stimulate",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Furor Divinus to your hand. Exhaust.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Solidification",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "All Heroes gain 10 block. Gain 5 Screw(s) Screw(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Pavise",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Use all your Screw(s) Screw(s). All heroes gain 3 block for each Screw(s) Screw spent. Use 1 Cores Core, to make it 5 (X).",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Lathe",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Clippings to your hand. Exhaust. At the start of your turn, gain 2 Screw(s) Screw(s) for each Clippings in your deck. Unstackable.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Eureka!",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Idea to your draw pile. Focus with -1 Screw(s) Screw(s) cost.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Ingenuity",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Exponentiation to your hand. Exhaust.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Chill",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 1 Cold Fusion to your hand.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Stable Influx",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 1 Cores Core(s), give 2 mana and draw 2 Contraption. If you had 2 or more Cores Cores, Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Tesseract",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Tesseract. Gain 3 Cores Core(s). Increase the cost by 1 Screw(s) Screw(s).",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Singularity",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Stun all monsters. Use 1 Cores Core to make every hero draw a card.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Reuse",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Activate the first Contraption, then remove it completely to gain 10 Screw(s) Screw(s) and 2 Cores Core(s).",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Mechamimic",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Draw 2 cards and gain 4 Screw(s) Screw(s) for each type of Contraption you have active. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Gumption",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 3 Screw(s) Screw(s). Add 1 Quicksort and 1 Capacitor to your hand.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Quicksort",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Move the first Contraption to the last position. Return this card to your hand. Exhaust it on discard.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Cookie",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Gain 2 Screw(s) Screw(s). If you used 1 Cores Core, gain 1 mana and draw a card. Exhaust.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Idea",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Add 1 Opus Magnum to your draw pile. Exhaust. Focus with -1 Screw(s) Screw(s) cost.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Prototype",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Starter",
+      "Effect": "Contraption Contraption. Use 1 Cores Core to play it twice. At the end of monsters' turn, deal 3 damage to the nearest monster.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Popping Wrist",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Contraption Contraption. Use 1 Cores Core to play it twice. At the end of monsters' turn, deal 3 damage to the 2 nearest monsters.",
+      "Screw": "4 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Compact Catapult",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, deal 3 splash damage in a small radius around 1 random monster.",
+      "Screw": "4 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Fire Sprinkler",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, deal 2 unblockable damage in a long medium cone towards the nearest monster. Use 1 Cores Core to make it 6",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Flare",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Contraption Contraption. At the start of your turn, stun 1 monster with Attack intent.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Converter",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Contraption Contraption. At the end of your turn, gain 1 Screw(s) Screw(s) for every Influence in your hand.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Mental Fulcrum",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "All your Attack cards deal +1 damage. Increase the cost by 1 Screw(s) Screw(s).",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Pop-up Shield",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the start of your turn, gain 1 block. If you have any Cores Cores, make it 3",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Shoulder Cannon",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. Use 1 Cores Core to play it twice. At the end of the monster's turn, deal 10 damage to 2 nearest monsters.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Tabletop Trebuchet",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, deal 6 splash damage in a small radius around 1 random monster.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Redox Reaction",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, deal 4 unblockable damage in a long medium cone towards the nearest 2 monsters. Use 1 Cores Core to make it 6.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Illuminator",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the start of your turn, stun a random monster with Attack intent or deal 5 damage if it is immune.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Means of Production",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the end of your turn, gain 1 Screw(s) Screw(s). Gain 1 more if you have 0 mana. Increase the cost by 1 Cores Cores.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Electrolysis",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the start of your turn, use 2 Screw(s) Screw(s) to gain 1 Cores Cores.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Unionize",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "If you have any Cores Cores, attack cards of every hero deal +1 damage. Increase the cost by 2 Screw(s) Screw(s).",
+      "Screw": "4 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Duct Tape",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Contraption Contraption. At the start of your turn, gain 2 block. If you have any Cores Cores, make it 5.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Spider Gun",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. Use 2 Cores Cores to play it twice. At the end of the monsters' turn, use 1 Screw(s) Screw(s) to deal 15 damage to the 3 nearest monsters.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Backpack Ballista",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, use 1 Screw(s) Screw(s) to deal 12 splash damage in a medium radius around 1 random monster.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Overpressure",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. At the end of the monster's turn, use 1 Cores Core(s) to deal 10 unblockable damage in a long medium cone towards the 3 nearest monsters.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Brilliance",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. At the start of your turn, stun 2 monsters with Attack intent and deal 8 unblockable damage to monsters with immunity.",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Mass Production",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. At the end of your turn, gain 3 Screw(s) Screw(s). Gain 2 more if you have 0 mana. Increase the cost by 1 Cores Cores.",
+      "Screw": "",
+      "Core": "1 Core(s)"
+    },
+    {
+      "Name": "Fruits of Labor",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "At the end of your turn, if you have no mana, next turn, each hero gets +1 mana.",
+      "Screw": "4 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Solidarity",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "If you have any Cores Cores, attack cards of every hero deal +3 damage. Increase the cost by 4 Screw(s) Screw(s).",
+      "Screw": "6 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Sharp Matter",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Every time you kill a non-summoned monster, gain 3 Screw(s) Screw(s) and 1 Cores Core(s).",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Tough Tabard",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Contraption Contraption. At the start of your turn, use 1 Cores Core(s) to gain 20 block.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Clippings",
+      "Type": "Summoned Skill",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Add 2 Clippings to your draw pile. Exhaust when played or discarded.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Opus Magnum",
+      "Type": "Summoned Influence",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Contraption Contraption. At the start of your turn, use 1 Cores Core(s) or remove this Contraption. Triple the damage you deal and block you gain this turn. Exhaust. Unstackable.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Exponentiation",
+      "Type": "Summoned Influence",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "Contraption Contraption. At the start of your turn, 1 random hero draws +1 card per stack and you ass 1 copy of this card to your draw pile. Exhaust.",
+      "Screw": "1 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Cold Fusion",
+      "Type": "Summoned Influence",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "At the start of your turn, all heroes draw +1 card(s) for every Cores Core you have. Exhaust.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Furor Divinus",
+      "Type": "Summoned Influence",
+      "Cost": "0",
+      "Rarity": "N/a",
+      "Effect": "All heroes draw 1 cards(s) for every point of mana you gain. Unstackable. Exhaust.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Spring Blade",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 1 damage. If it's a section with a Trap Trap, deal 1 damage to each monster for every 2 monsters in this section instead. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Grid Strike",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Deal 1 damage. if it's a section with a Trap Trap, deal 1 damage to each monster for each monster in this section instead. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Trapper Delight",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 1 damage. if it's a section with a Trap Trap, deal 1 damage to each monster for each monster in this section instead. Strain.",
+      "Screw": "",
+      "Core": ""
+    },
+    {
+      "Name": "Feathertouch",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage and stun all monsters in a section with a Trap Trap. Remove that Trap Trap.",
+      "Screw": "5 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Home Alone",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage and stun all monsters in a section with a Trap Trap. Remove that Trap Trap and return this card to your hand.",
+      "Screw": "8 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Force Multiplayer",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 4 damage and stun all monsters in each section with a Trap Trap. Remove all Trap Traps.",
+      "Screw": "10 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Junk Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Trap Trap. Gain 1 Screw(s) Screw(s) for each non-summoned monster killed in this section.",
+      "Screw": "",
+      "Core": "1 Core(s)"
+    },
+    {
+      "Name": "Tripwire Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Trap Trap. If no monster is marked, add 3 mark to the monster entering this section.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Magnet Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Trap Trap. At the start of your turn, remove 3 block from all monsters in this section.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Trojan Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Trap Trap. All attacks deal +1 damage to monsters in this section. Gain 1 Screw(s) for each non-summoned monster killed in this section.",
+      "Screw": "",
+      "Core": "1 Core(s)"
+    },
+    {
+      "Name": "Paint Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Trap Trap. If no monster is marked, add 5 mark to the first monster entering this section. Use 1 Screw(s) Screw(s) to stun it.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Acid Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Trap Trap. At the start of your turn, remove 5 block from all monsters in this section.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Classic Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Trap Trap. If no monster is marked, add 5 mark to the first monster entering this section. When any monster enters this section, use 1 Screw(s) Screw(s) to stun and deal 5 damage to it.",
+      "Screw": "2 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Jack Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Trap Trap. At the start of your turn, stun and move 1 random monster from this section to a random section. Remove block from all other monsters in the new section.",
+      "Screw": "3 Screw(s)",
+      "Core": ""
+    },
+    {
+      "Name": "Kill Zone Trap",
+      "Type": "Influence",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Trap Trap. All attacks deal +2 damage to monsters in this section. Gain 1 Screw(s) Screw(s) for each non-summoned monster killed in this section.",
+      "Screw": "",
+      "Core": "1 Core(s)"
+    }
+  ],
+  "Bruja Cards": [
+    {
+      "Name": "Leeches",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Starter",
+      "Effect": "Deal 2 damage. If the monster survives, add 1 Healing Drops to your hand.",
+      "Blood": "1 Blood Cost"
+    },
+    {
+      "Name": "Nick Jugular",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Starter",
+      "Effect": "Deal 1 damage. Deal +2 if your HP is below 80%(X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Hex",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage in a small radius. Increase Reckoning by 3.",
+      "Blood": ""
+    },
+    {
+      "Name": "Boils",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 5 damage. If it kills the monster, deal 5 splash damage in a small radius.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Channel Wrath",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal damage equal to Reckoning (X) in a small radius. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Double Cut",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 2 damage. Deal +4 if your HP is below 70%(X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Sangria",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Deal 4 damage. If the monster survives, add 2 Healing Drops to your hand.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Necrotize",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal damage equal to 50% of your missing HP (X) Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Cabrit sans Cor",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Deal 4 damage. If it kills the monster, increase Reckoning by 4 and gain Grace.",
+      "Blood": ""
+    },
+    {
+      "Name": "Bile Blade",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 6 damage. Take this card when you draw Black Bile.",
+      "Blood": "1 Blood Cost"
+    },
+    {
+      "Name": "Bitter Incense",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 8 damage and add Black Bile to your draw pile. If it kills the monster, deal 8 splash damage in a medium radius.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Veer Anger",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal damage equal to Reckoning (X) in a medium radius. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Seeping Wound",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 3 damage. Deal +6 damage if your HP is below 60%(X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Arterial Spray",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 4 damage. If the monster survives, add 2 Healing Drops to your hand.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Thoughts & Slayers",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage in a long medium cone.",
+      "Blood": "3 Blood Cost"
+    },
+    {
+      "Name": "Tit for Tat",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal damage equal to 50% of your missing HP (X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Echoing Whimper",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 2 damage for every damaged monster (X total).",
+      "Blood": ""
+    },
+    {
+      "Name": "Puppeteer",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Deal 5 damage. If it kills a monster, give all heroes block equal to that monster's Strength.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Malevolent Glare",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 15 damage in a small radius. Increase Reckoning by 10.",
+      "Blood": ""
+    },
+    {
+      "Name": "Ill Intent",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Deal 6 damage. If it kills the monster, increase Reckoning by 6 and gain Grace.",
+      "Blood": ""
+    },
+    {
+      "Name": "Malfeasance",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to Reckoning (X) in a large radius. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Liturgy of Pain",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 12 damage and add 2 Black Bile to your draw pile. If it kills the monster, deal 12 splash damage in a medium radius. If it kills again, repeat once.",
+      "Blood": "4 Blood Cost"
+    },
+    {
+      "Name": "Sinister Chant",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 25 damage in a small radius. Increase Reckoning by 20.",
+      "Blood": ""
+    },
+    {
+      "Name": "Thousand Cuts",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal 2 damage. Deal +4 damage for every 4 HP you are below your max HP (X total).",
+      "Blood": ""
+    },
+    {
+      "Name": "Hollow Blade",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 4 damage. If the monster survives, add 2 Healing Drops to your hand. Otherwise, Increase damage by 1 and return this card to your hand.",
+      "Blood": "3 Blood Cost"
+    },
+    {
+      "Name": "Crimson Tide",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 11 damage in a long medium cone.",
+      "Blood": "6 Blood Cost"
+    },
+    {
+      "Name": "Reap Rewards",
+      "Type": "Attack",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Deal damage equal to your missing HP (X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Choir of Agony",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 3 damage for every damaged monster (X total). If it kills the monster, lower the Strength of all damaged monsters by 3 this turn.",
+      "Blood": ""
+    },
+    {
+      "Name": "Mind Fracture",
+      "Type": "Attack",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage. If it kills the monster, Increase Reckoning by 10 and gain Grace.",
+      "Blood": ""
+    },
+    {
+      "Name": "Soul Shatter",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 10 damage. If it kills the monster, deal damage equal to its Strength to the Monster closest to it and give all Heroes block equal to its Strength.",
+      "Blood": "4 Blood Cost"
+    },
+    {
+      "Name": "Culling",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "All damaged non-boss monsters lose half their current HP. Exhaust.",
+      "Blood": "13 Blood Cost"
+    },
+    {
+      "Name": "Humoric Attune",
+      "Type": "Attack",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Deal 2 damage +3 damage for every Black Bile in your deck (X) total. Take this card when you draw Black Bile.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Anoint",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Starter",
+      "Effect": "Give 3 block.",
+      "Blood": "1 Blood Cost"
+    },
+    {
+      "Name": "Accessorize",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Starter",
+      "Effect": "Gain 3 block.",
+      "Blood": ""
+    },
+    {
+      "Name": "Adjourn",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Increase Reckoning by 150% of HP lost (X) and gain Grace. Add 1 Black Bile to the draw pile and increase that number by 1.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Wound Lick",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Add 2 Healing Drops to your hand. Increase Reckoning by 4.",
+      "Blood": ""
+    },
+    {
+      "Name": "Ward Off",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Give 6 block.",
+      "Blood": "1 Blood Cost"
+    },
+    {
+      "Name": "Paint Pentacle",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Give 6 block to all Heroes.",
+      "Blood": "3 Blood Cost"
+    },
+    {
+      "Name": "Insolence",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Of you have Grace, lose it to draw 2 cards.",
+      "Blood": ""
+    },
+    {
+      "Name": "Appease",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Common",
+      "Effect": "Decrease Reckoning by 5.",
+      "Blood": ""
+    },
+    {
+      "Name": "Scab",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Gain 1 block for each 3 of your missing HP (X total).",
+      "Blood": ""
+    },
+    {
+      "Name": "Forewarn",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Give 4 block. Heal 1 HP. Add Black Bile to your hand.",
+      "Blood": ""
+    },
+    {
+      "Name": "Evil Eye",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "Lower the Strength of a monster by 3 this turn. Gain 2 block.",
+      "Blood": ""
+    },
+    {
+      "Name": "Renounce",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Common",
+      "Effect": "If Reckoning is active reduce it to 75% (X). Otherwise gain 1 mana and draw 1 card.",
+      "Blood": ""
+    },
+    {
+      "Name": "Libation",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Increase Reckoning by HP lost (X) and gain Grace. Add 1 Black Bile to the draw pile and increase that number by 1.",
+      "Blood": "3 Blood Cost"
+    },
+    {
+      "Name": "Trick Death",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Add 1 Healing Drops and 1 Healing Blood to your hand. Increase Reckoning by 12.",
+      "Blood": ""
+    },
+    {
+      "Name": "Imbue",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Give 6 block. Strain. and return this card to your hand. Reset the card at discard.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Red Veil",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Give 10 block to all Heroes.",
+      "Blood": "5 Blood Cost"
+    },
+    {
+      "Name": "Haruspicy",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "If you have Grace, lose it to draw 1 card and 1 mana for every 10 Reckoning (1 cards and 1 mana). Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Repent",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Decrease Reckoning by 15.",
+      "Blood": ""
+    },
+    {
+      "Name": "Tongue Bite",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Rare",
+      "Effect": "Add Black Bile to the draw pile and draw 3 cards. Heal 2 HP for every Black Bile drawn.",
+      "Blood": "1 Blood Cost"
+    },
+    {
+      "Name": "Scarring",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Gain 1 block for each 2 of your missing HP (X total).",
+      "Blood": ""
+    },
+    {
+      "Name": "Nefarious Glance",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Lower the Strength of a monster by 8 this turn. Gain 5 block.",
+      "Blood": ""
+    },
+    {
+      "Name": "Withering Stare",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Lower the Strength of a monster by 1 this turn.",
+      "Blood": ""
+    },
+    {
+      "Name": "Bargaining",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "If Reckoning is active reduce it to 50% (X). Otherwise gain 2 mana and draw 2 cards.",
+      "Blood": ""
+    },
+    {
+      "Name": "Atone",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Decrease your Reckoning by 50% (X). Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Autosarcophagy",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add 2 Black Bile to the draw pile and draw 4 cards. Heal 2 HP and 1 mana for every Black Bile drawn.",
+      "Blood": "3 Blood Cost"
+    },
+    {
+      "Name": "Transfuse",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Add Healing Blood to the hero's hand. Add Black Bile to your draw pile. Strain.",
+      "Blood": "4 Blood Cost"
+    },
+    {
+      "Name": "Curry Favor",
+      "Type": "Skill",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "If Reckoning is active reduce it to 25% (X). Otherwise gain 4 mana and draw Cards until your hand is full. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Corrupt Offering",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Increase Reckoning by 50% of HP lost (X) and gain Grace. Add 1 Black Bile to the draw pile and increase that number by 1.",
+      "Blood": "4 Blood Cost"
+    },
+    {
+      "Name": "Worm Stew",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Add 3 Healing Drops and 1 Healing Blood to your hand. Increase Reckoning by 30.",
+      "Blood": ""
+    },
+    {
+      "Name": "Heptomancy",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Give 11 block. Increase block given by 2, Strain and return this card to your hand. Reset the card at discard.",
+      "Blood": "2 Blood Cost"
+    },
+    {
+      "Name": "Mandragore Tea",
+      "Type": "Skill",
+      "Cost": "0",
+      "Rarity": "Legendary",
+      "Effect": "Give 10 block to all Heroes. Their block stays for the next round.",
+      "Blood": "5 Blood Cost"
+    },
+    {
+      "Name": "Embrace Ire",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Draw 1 cards and gain 2 mana for every 5 Reckoning (X cards and X mana). Lose Grace. You cannot gain Grace this turn. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Patience",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Decrease Reckoning by 50% (X).",
+      "Blood": ""
+    },
+    {
+      "Name": "Wrathstealer",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Give all Heroes block equal to their incoming damage. Increase Reckoning by half of each incoming damage.",
+      "Blood": ""
+    },
+    {
+      "Name": "Bone Knitting",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain 1 block for each 2 of your missing HP (X total). If Reckoning is above 20, double the block and Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Rattle",
+      "Type": "Skill",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Lower the Strength of monsters in a medium radius by 8 this turn. Gain 2 block for each monster affected.",
+      "Blood": ""
+    },
+    {
+      "Name": "Crumple",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Lower the Strength of all monsters by 5 this turn.",
+      "Blood": ""
+    },
+    {
+      "Name": "Soul Swap",
+      "Type": "Skill",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Remove Reckoning and lose Grace. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Pinch",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Starter",
+      "Effect": "For the next 3 turns, if you've lost HP on your turn, your attacks deal +1 damage.",
+      "Blood": ""
+    },
+    {
+      "Name": "Bag of Bones",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "At the end of the battle, heal yourself by 1HP for every non-summoned monster you have killed. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Inner Well",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Common",
+      "Effect": "If your HP is below 30% (X) ignore 1 HP loss paying for cards. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Red Menace",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "If you've lost HP on your turn, your attacks deal +1 damage. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Drain Essence",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "Every time you kill a monster, gain 2 block. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Blame",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Common",
+      "Effect": "At the end of your turn, If you have incoming damage, gain block and increase Reckoning by 5. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Soul Shield",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "Every time you kill a monster, gain 4 block. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Teeth Necklace",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "At the end of the battle, heal yourself by 2HP for every non-summoned monster you have killed. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Wendigo",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Every time you kill a monster, gain 8 block and draw 1 card. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Linden Brew",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "For every 5th monster you kill, remove all Black Bile from your deck. Draw 1 card for each Black Bile removed. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Ribleaf Compress",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "For the next 3 turns, heal 1 HP for every unused mana at the end of your turn.",
+      "Blood": ""
+    },
+    {
+      "Name": "Oblation Rite",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Every time you lose HP during your turn, reduce Reckoning by the same amount. Unstackable, Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Lifesteal",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "For the next 3 turn(s), add 1 Healing Drops to your hand for every 2 non-summoned monsters killed.",
+      "Blood": ""
+    },
+    {
+      "Name": "Imbrued Lien",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "At the end of your turn, If you have incoming damage, gain block and increase Reckoning by 20% of the damage. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Engorge",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "If you've lost HP on your turn, your attacks deal +2 damage. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Work Life Balance",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Rare",
+      "Effect": "If your HP is below 50% (X) ignore 1 HP loss paying for cards. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Appeal to Mercy",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "If your HP is below 50% (X), at the start of your turn, reduce Reckoning by 6.",
+      "Blood": ""
+    },
+    {
+      "Name": "Wickedness",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Rare",
+      "Effect": "Your attacks deal +1 damage for every 10 Reckoning. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Deadlines",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Rare",
+      "Effect": "At the start of your turn, gain +1 mana for every 15 Reckoning. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Bone Broth",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "At the end of the battle, heal yourself by 5HP and others by 1 HP for every non-summoned monster you have killed. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Mercy Plea",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "When you lose at least 5 HP in your turn, gain Grace. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Dark Embrace",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Every time you kill a monster, increase Reckoning by 5 and gain 5 block. Reckoning alone cannot kill you. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Black Affinity",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Gain 5 block every time you draw Black Bile.",
+      "Blood": ""
+    },
+    {
+      "Name": "Violent Cycle",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "For the next 3 turn(s), add 1 Healing Drops to your hand for every non-summoned monsters killed.",
+      "Blood": ""
+    },
+    {
+      "Name": "Salt Circle",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "At the end of your turn, If you have incoming damage, gain block and increase Reckoning by 40% of the damage. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Vendetta",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "If you've lost more than 2 HP on your turn, all heroes attacks deal +2 damage. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Sate",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "Gain Grace when you kill at least 4 monsters in a turn. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Edgerunner",
+      "Type": "Influence",
+      "Cost": "3",
+      "Rarity": "Legendary",
+      "Effect": "If your HP is below 75% (X) ignore 1HP loss paying for cards. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Abuse Pity",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "If your HP is below 50% (X), at the start of your turn, reduce Reckoning by 15. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Violent Delight",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Your attacks deal +1 damage for every 10 Reckoning. Unstackable. Strain.",
+      "Blood": ""
+    },
+    {
+      "Name": "Surface Pressure",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "At the start of your turn, gain +1 mana and draw +1 cards for every 15 Reckoning. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Eigth Rule",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "If you've lost at least 10 HP this turn, your attacks deal bonus damage equal to 50% your total HP loss (X). Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Last Favor",
+      "Type": "Influence",
+      "Cost": "1",
+      "Rarity": "Legendary",
+      "Effect": "If your HP is below 10% (X), gain 10 block, +2 mana and draw +2 cards at the start of your turn. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Knead Cobwebs",
+      "Type": "Influence",
+      "Cost": "2",
+      "Rarity": "Legendary",
+      "Effect": "Heal 1 HP for every unused mana at the end of your turn. Unstackable. Exhaust.",
+      "Blood": ""
+    },
+    {
+      "Name": "Black Bile",
+      "Type": "Summoned_status",
+      "Cost": "1",
+      "Rarity": "N/a",
+      "Effect": "Cards that use HP as cost, cost 1 HP more when this card is in hand. Exhaust.",
+      "Blood": ""
+    }
+  ]
+}
