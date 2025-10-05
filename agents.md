@@ -32,6 +32,7 @@
 - Use footnotes for external references; link the smallest page that verifies the claim.
 - Validate that every build can execute as written in the live game; no speculative combos without proven runs or patch confirmations.
 - Reach for the local datasets in `data/` (`cards.json`, `artifacts.json`, `effects.json`) before opening the wiki; only hit online sources when the offline snapshot lacks what you need.
+- Keep `README.md` as a browsable index—update it whenever guides or datasets move so newcomers can navigate the repo quickly.
 
 ## Data Collection & Verification
 - **Pre-write checklist**: confirm the current game build, note any balance hotfixes in the last 7 days, and scan official Discord announcements.
